@@ -1,0 +1,601 @@
+,Area,Date,Unadjusted CPI Index
+0,U.S. city average,2019-01-01,251.712
+1,Region and area size(2),2019-01-01,
+2,Northeast,2019-01-01,266.109
+3,Northeast - Size Class A,2019-01-01,269.354
+4,Northeast - Size Class B/C(3),2019-01-01,156.632
+5,New England(4),2019-01-01,102.705
+6,Middle Atlantic(4),2019-01-01,101.804
+7,Midwest,2019-01-01,233.837
+8,Midwest - Size Class A,2019-01-01,234.773
+9,Midwest - Size Class B/C(3),2019-01-01,149.383
+10,East North Central(4),2019-01-01,101.457
+11,West North Central(4),2019-01-01,101.363
+12,South,2019-01-01,242.547
+13,South - Size Class A,2019-01-01,247.112
+14,South - Size Class B/C(3),2019-01-01,153.212
+15,South Atlantic(4),2019-01-01,102.18
+16,East South Central(4),2019-01-01,101.116
+17,West South Central(4),2019-01-01,101.07
+18,West,2019-01-01,265.624
+19,West - Size Class A,2019-01-01,274.142
+20,West - Size Class B/C(3),2019-01-01,154.328
+21,Mountain(4),2019-01-01,102.715
+22,Pacific(4),2019-01-01,103.401
+23,Size classes,2019-01-01,
+24,Size Class A(5),2019-01-01,232.214
+25,Size Class B/C(3),2019-01-01,153.156
+26,Selected local areas,2019-01-01,
+27,"Chicago-Naperville-Elgin, IL-IN-WI",2019-01-01,238.218
+28,"Los Angeles-Long Beach-Anaheim, CA",2019-01-01,269.468
+29,"New York-Newark-Jersey City, NY-NJ-PA",2019-01-01,275.144
+30,"Atlanta-Sandy Springs-Roswell, GA",2019-01-01,
+31,"Baltimore-Columbia-Towson, MD(6)",2019-01-01,
+32,"Detroit-Warren-Dearborn, MI",2019-01-01,
+33,"Houston-The Woodlands-Sugar Land, TX",2019-01-01,
+34,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-01-01,
+35,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-01-01,
+36,"Phoenix-Mesa-Scottsdale, AZ(7)",2019-01-01,
+37,"San Francisco-Oakland-Hayward, CA",2019-01-01,
+38,"Seattle-Tacoma-Bellevue, WA",2019-01-01,
+39,"St. Louis, MO-IL",2019-01-01,
+40,Urban Alaska,2019-01-01,
+41,"Boston-Cambridge-Newton, MA-NH",2019-01-01,278.976
+42,"Dallas-Fort Worth-Arlington, TX",2019-01-01,233.915
+43,"Denver-Aurora-Lakewood, CO",2019-01-01,260.942
+44,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-01-01,245.2
+45,"Riverside-San Bernardino-Ontario, CA(4)",2019-01-01,103.991
+46,"San Diego-Carlsbad, CA",2019-01-01,295.761
+47,"Tampa-St. Petersburg-Clearwater, FL(8)",2019-01-01,222.774
+48,Urban Hawaii,2019-01-01,279.005
+49,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2019-01-01,262.304
+50,U.S. city average,2019-02-01,252.776
+51,Region and area size(2),2019-02-01,
+52,Northeast,2019-02-01,266.706
+53,Northeast - Size Class A,2019-02-01,270.239
+54,Northeast - Size Class B/C(3),2019-02-01,156.772
+55,New England(4),2019-02-01,102.64
+56,Middle Atlantic(4),2019-02-01,102.137
+57,Midwest,2019-02-01,235.444
+58,Midwest - Size Class A,2019-02-01,236.109
+59,Midwest - Size Class B/C(3),2019-02-01,150.523
+60,East North Central(4),2019-02-01,102.212
+61,West North Central(4),2019-02-01,101.94
+62,South,2019-02-01,243.856
+63,South - Size Class A,2019-02-01,248.505
+64,South - Size Class B/C(3),2019-02-01,154.019
+65,South Atlantic(4),2019-02-01,102.769
+66,East South Central(4),2019-02-01,101.712
+67,West South Central(4),2019-02-01,101.522
+68,West,2019-02-01,266.215
+69,West - Size Class A,2019-02-01,274.753
+70,West - Size Class B/C(3),2019-02-01,154.671
+71,Mountain(4),2019-02-01,102.685
+72,Pacific(4),2019-02-01,103.727
+73,Size classes,2019-02-01,
+74,Size Class A(5),2019-02-01,233.142
+75,Size Class B/C(3),2019-02-01,153.833
+76,Selected local areas,2019-02-01,
+77,"Chicago-Naperville-Elgin, IL-IN-WI",2019-02-01,239.669
+78,"Los Angeles-Long Beach-Anaheim, CA",2019-02-01,269.608
+79,"New York-Newark-Jersey City, NY-NJ-PA",2019-02-01,275.823
+80,"Atlanta-Sandy Springs-Roswell, GA",2019-02-01,240.072
+81,"Baltimore-Columbia-Towson, MD(6)",2019-02-01,254.433
+82,"Detroit-Warren-Dearborn, MI",2019-02-01,232.549
+83,"Houston-The Woodlands-Sugar Land, TX",2019-02-01,226.804
+84,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-02-01,268.288
+85,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-02-01,253.218
+86,"Phoenix-Mesa-Scottsdale, AZ(7)",2019-02-01,139.66
+87,"San Francisco-Oakland-Hayward, CA",2019-02-01,291.227
+88,"Seattle-Tacoma-Bellevue, WA",2019-02-01,275.304
+89,"St. Louis, MO-IL",2019-02-01,228.528
+90,Urban Alaska,2019-02-01,227.183
+91,"Boston-Cambridge-Newton, MA-NH",2019-02-01,
+92,"Dallas-Fort Worth-Arlington, TX",2019-02-01,
+93,"Denver-Aurora-Lakewood, CO",2019-02-01,
+94,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-02-01,
+95,"Riverside-San Bernardino-Ontario, CA(4)",2019-02-01,
+96,"San Diego-Carlsbad, CA",2019-02-01,
+97,"Tampa-St. Petersburg-Clearwater, FL(8)",2019-02-01,
+98,Urban Hawaii,2019-02-01,
+99,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2019-02-01,
+100,U.S. city average,{year}-03-01,254.202
+101,Region and area size(2),{year}-03-01,
+102,Northeast,{year}-03-01,268.025
+103,Northeast - Size Class A,{year}-03-01,271.452
+104,Northeast - Size Class B/C(3),{year}-03-01,157.64
+105,New England(4),{year}-03-01,103.517
+106,Middle Atlantic(4),{year}-03-01,102.511
+107,Midwest,{year}-03-01,236.793
+108,Midwest - Size Class A,{year}-03-01,237.414
+109,Midwest - Size Class B/C(3),{year}-03-01,151.405
+110,East North Central(4),{year}-03-01,102.656
+111,West North Central(4),{year}-03-01,102.818
+112,South,{year}-03-01,245.554
+113,South - Size Class A,{year}-03-01,250.011
+114,South - Size Class B/C(3),{year}-03-01,155.168
+115,South Atlantic(4),{year}-03-01,103.564
+116,East South Central(4),{year}-03-01,102.336
+117,West South Central(4),{year}-03-01,102.123
+118,West,{year}-03-01,267.37
+119,West - Size Class A,{year}-03-01,276.187
+120,West - Size Class B/C(3),{year}-03-01,155.178
+121,Mountain(4),{year}-03-01,103.339
+122,Pacific(4),{year}-03-01,104.1
+123,Size classes,{year}-03-01,
+124,Size Class A(5),{year}-03-01,234.383
+125,Size Class B/C(3),{year}-03-01,154.742
+126,Selected local areas,{year}-03-01,
+127,"Chicago-Naperville-Elgin, IL-IN-WI",{year}-03-01,240.019
+128,"Los Angeles-Long Beach-Anaheim, CA",{year}-03-01,271.311
+129,"New York-Newark-Jersey City, NY-NJ-PA",{year}-03-01,276.57
+130,"Atlanta-Sandy Springs-Roswell, GA",{year}-03-01,
+131,"Baltimore-Columbia-Towson, MD(6)",{year}-03-01,
+132,"Detroit-Warren-Dearborn, MI",{year}-03-01,
+133,"Houston-The Woodlands-Sugar Land, TX",{year}-03-01,
+134,"Miami-Fort Lauderdale-West Palm Beach, FL",{year}-03-01,
+135,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",{year}-03-01,
+136,"Phoenix-Mesa-Scottsdale, AZ(7)",{year}-03-01,
+137,"San Francisco-Oakland-Hayward, CA",{year}-03-01,
+138,"Seattle-Tacoma-Bellevue, WA",{year}-03-01,
+139,"St. Louis, MO-IL",{year}-03-01,
+140,Urban Alaska,{year}-03-01,
+141,"Boston-Cambridge-Newton, MA-NH",{year}-03-01,280.393
+142,"Dallas-Fort Worth-Arlington, TX",{year}-03-01,236.495
+143,"Denver-Aurora-Lakewood, CO",{year}-03-01,264.332
+144,"Minneapolis-St.Paul-Bloomington, MN-WI",{year}-03-01,248.706
+145,"Riverside-San Bernardino-Ontario, CA(4)",{year}-03-01,104.749
+146,"San Diego-Carlsbad, CA",{year}-03-01,297.226
+147,"Tampa-St. Petersburg-Clearwater, FL(8)",{year}-03-01,226.927
+148,Urban Hawaii,{year}-03-01,280.263
+149,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",{year}-03-01,264.257
+150,U.S. city average,2019-04-01,255.548
+151,Region and area size(2),2019-04-01,
+152,Northeast,2019-04-01,269.07
+153,Northeast - Size Class A,2019-04-01,272.375
+154,Northeast - Size Class B/C(3),2019-04-01,158.357
+155,New England(4),2019-04-01,103.956
+156,Middle Atlantic(4),2019-04-01,102.898
+157,Midwest,2019-04-01,237.51
+158,Midwest - Size Class A,2019-04-01,237.576
+159,Midwest - Size Class B/C(3),2019-04-01,152.093
+160,East North Central(4),2019-04-01,102.928
+161,West North Central(4),2019-04-01,103.209
+162,South,2019-04-01,246.847
+163,South - Size Class A,2019-04-01,251.526
+164,South - Size Class B/C(3),2019-04-01,155.916
+165,South Atlantic(4),2019-04-01,104.134
+166,East South Central(4),2019-04-01,102.541
+167,West South Central(4),2019-04-01,102.775
+168,West,2019-04-01,269.522
+169,West - Size Class A,2019-04-01,278.268
+170,West - Size Class B/C(3),2019-04-01,156.523
+171,Mountain(4),2019-04-01,104.09
+172,Pacific(4),2019-04-01,104.967
+173,Size classes,2019-04-01,
+174,Size Class A(5),2019-04-01,235.55
+175,Size Class B/C(3),2019-04-01,155.601
+176,Selected local areas,2019-04-01,
+177,"Chicago-Naperville-Elgin, IL-IN-WI",2019-04-01,239.726
+178,"Los Angeles-Long Beach-Anaheim, CA",2019-04-01,273.945
+179,"New York-Newark-Jersey City, NY-NJ-PA",2019-04-01,277.441
+180,"Atlanta-Sandy Springs-Roswell, GA",2019-04-01,243.383
+181,"Baltimore-Columbia-Towson, MD(6)",2019-04-01,258.816
+182,"Detroit-Warren-Dearborn, MI",2019-04-01,234.022
+183,"Houston-The Woodlands-Sugar Land, TX",2019-04-01,229.261
+184,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-04-01,270.553
+185,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-04-01,256.528
+186,"Phoenix-Mesa-Scottsdale, AZ(7)",2019-04-01,141.642
+187,"San Francisco-Oakland-Hayward, CA",2019-04-01,294.801
+188,"Seattle-Tacoma-Bellevue, WA",2019-04-01,276.765
+189,"St. Louis, MO-IL",2019-04-01,230.9
+190,Urban Alaska,2019-04-01,228.553
+191,"Boston-Cambridge-Newton, MA-NH",2019-04-01,
+192,"Dallas-Fort Worth-Arlington, TX",2019-04-01,
+193,"Denver-Aurora-Lakewood, CO",2019-04-01,
+194,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-04-01,
+195,"Riverside-San Bernardino-Ontario, CA(4)",2019-04-01,
+196,"San Diego-Carlsbad, CA",2019-04-01,
+197,"Tampa-St. Petersburg-Clearwater, FL(8)",2019-04-01,
+198,Urban Hawaii,2019-04-01,
+199,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2019-04-01,
+200,U.S. city average,2019-05-01,256.092
+201,Region and area size(2),2019-05-01,
+202,Northeast,2019-05-01,269.744
+203,Northeast - Size Class A,2019-05-01,272.832
+204,Northeast - Size Class B/C(3),2019-05-01,158.925
+205,New England(4),2019-05-01,104.225
+206,Middle Atlantic(4),2019-05-01,103.153
+207,Midwest,2019-05-01,238.219
+208,Midwest - Size Class A,2019-05-01,238.926
+209,Midwest - Size Class B/C(3),2019-05-01,152.284
+210,East North Central(4),2019-05-01,103.246
+211,West North Central(4),2019-05-01,103.496
+212,South,2019-05-01,246.667
+213,South - Size Class A,2019-05-01,251.949
+214,South - Size Class B/C(3),2019-05-01,155.595
+215,South Atlantic(4),2019-05-01,104.045
+216,East South Central(4),2019-05-01,102.455
+217,West South Central(4),2019-05-01,102.732
+218,West,2019-05-01,270.88
+219,West - Size Class A,2019-05-01,279.41
+220,West - Size Class B/C(3),2019-05-01,157.488
+221,Mountain(4),2019-05-01,105.048
+222,Pacific(4),2019-05-01,105.336
+223,Size classes,2019-05-01,
+224,Size Class A(5),2019-05-01,236.282
+225,Size Class B/C(3),2019-05-01,155.806
+226,Selected local areas,2019-05-01,
+227,"Chicago-Naperville-Elgin, IL-IN-WI",2019-05-01,241.758
+228,"Los Angeles-Long Beach-Anaheim, CA",2019-05-01,274.479
+229,"New York-Newark-Jersey City, NY-NJ-PA",2019-05-01,278.068
+230,"Atlanta-Sandy Springs-Roswell, GA",2019-05-01,
+231,"Baltimore-Columbia-Towson, MD(6)",2019-05-01,
+232,"Detroit-Warren-Dearborn, MI",2019-05-01,
+233,"Houston-The Woodlands-Sugar Land, TX",2019-05-01,
+234,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-05-01,
+235,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-05-01,
+236,"Phoenix-Mesa-Scottsdale, AZ(7)",2019-05-01,
+237,"San Francisco-Oakland-Hayward, CA",2019-05-01,
+238,"Seattle-Tacoma-Bellevue, WA",2019-05-01,
+239,"St. Louis, MO-IL",2019-05-01,
+240,Urban Alaska,2019-05-01,
+241,"Boston-Cambridge-Newton, MA-NH",2019-05-01,280.937
+242,"Dallas-Fort Worth-Arlington, TX",2019-05-01,237.485
+243,"Denver-Aurora-Lakewood, CO",2019-05-01,266.28
+244,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-05-01,251.171
+245,"Riverside-San Bernardino-Ontario, CA(4)",2019-05-01,105.959
+246,"San Diego-Carlsbad, CA",2019-05-01,300.303
+247,"Tampa-St. Petersburg-Clearwater, FL(8)",2019-05-01,229.018
+248,Urban Hawaii,2019-05-01,282.271
+249,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2019-05-01,265.967
+250,U.S. city average,2019-06-01,256.143
+251,Region and area size(2),2019-06-01,
+252,Northeast,2019-06-01,270.133
+253,Northeast - Size Class A,2019-06-01,273.418
+254,Northeast - Size Class B/C(3),2019-06-01,159.008
+255,New England(4),2019-06-01,104.146
+256,Middle Atlantic(4),2019-06-01,103.383
+257,Midwest,2019-06-01,238.288
+258,Midwest - Size Class A,2019-06-01,239.007
+259,Midwest - Size Class B/C(3),2019-06-01,152.323
+260,East North Central(4),2019-06-01,103.178
+261,West North Central(4),2019-06-01,103.729
+262,South,2019-06-01,246.515
+263,South - Size Class A,2019-06-01,251.247
+264,South - Size Class B/C(3),2019-06-01,155.687
+265,South Atlantic(4),2019-06-01,103.886
+266,East South Central(4),2019-06-01,102.478
+267,West South Central(4),2019-06-01,102.8
+268,West,2019-06-01,270.957
+269,West - Size Class A,2019-06-01,279.446
+270,West - Size Class B/C(3),2019-06-01,157.564
+271,Mountain(4),2019-06-01,105.131
+272,Pacific(4),2019-06-01,105.347
+273,Size classes,2019-06-01,
+274,Size Class A(5),2019-06-01,236.248
+275,Size Class B/C(3),2019-06-01,155.882
+276,Selected local areas,2019-06-01,
+277,"Chicago-Naperville-Elgin, IL-IN-WI",2019-06-01,240.835
+278,"Los Angeles-Long Beach-Anaheim, CA",2019-06-01,274.38
+279,"New York-Newark-Jersey City, NY-NJ-PA",2019-06-01,278.802
+280,"Atlanta-Sandy Springs-Roswell, GA",2019-06-01,243.087
+281,"Baltimore-Columbia-Towson, MD(6)",2019-06-01,256.79
+282,"Detroit-Warren-Dearborn, MI",2019-06-01,234.895
+283,"Houston-The Woodlands-Sugar Land, TX",2019-06-01,229.316
+284,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-06-01,269.119
+285,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-06-01,257.709
+286,"Phoenix-Mesa-Scottsdale, AZ(7)",2019-06-01,142.997
+287,"San Francisco-Oakland-Hayward, CA",2019-06-01,295.259
+288,"Seattle-Tacoma-Bellevue, WA",2019-06-01,278.631
+289,"St. Louis, MO-IL",2019-06-01,233.063
+290,Urban Alaska,2019-06-01,234.179
+291,"Boston-Cambridge-Newton, MA-NH",2019-06-01,
+292,"Dallas-Fort Worth-Arlington, TX",2019-06-01,
+293,"Denver-Aurora-Lakewood, CO",2019-06-01,
+294,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-06-01,
+295,"Riverside-San Bernardino-Ontario, CA(4)",2019-06-01,
+296,"San Diego-Carlsbad, CA",2019-06-01,
+297,"Tampa-St. Petersburg-Clearwater, FL(8)",2019-06-01,
+298,Urban Hawaii,2019-06-01,
+299,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2019-06-01,
+300,U.S. city average,2019-07-01,256.571
+301,Region and area size(2),2019-07-01,
+302,Northeast,2019-07-01,270.381
+303,Northeast - Size Class A,2019-07-01,273.632
+304,Northeast - Size Class B/C(3),2019-07-01,159.182
+305,New England(4),2019-07-01,104.083
+306,Middle Atlantic(4),2019-07-01,103.534
+307,Midwest,2019-07-01,238.76
+308,Midwest - Size Class A,2019-07-01,239.819
+309,Midwest - Size Class B/C(3),2019-07-01,152.485
+310,East North Central(4),2019-07-01,103.432
+311,West North Central(4),2019-07-01,103.833
+312,South,2019-07-01,247.25
+313,South - Size Class A,2019-07-01,251.878
+314,South - Size Class B/C(3),2019-07-01,156.192
+315,South Atlantic(4),2019-07-01,104.236
+316,East South Central(4),2019-07-01,102.724
+317,West South Central(4),2019-07-01,103.062
+318,West,2019-07-01,271.029
+319,West - Size Class A,2019-07-01,279.726
+320,West - Size Class B/C(3),2019-07-01,157.465
+321,Mountain(4),2019-07-01,105.099
+322,Pacific(4),2019-07-01,105.397
+323,Size classes,2019-07-01,
+324,Size Class A(5),2019-07-01,236.664
+325,Size Class B/C(3),2019-07-01,156.13
+326,Selected local areas,2019-07-01,
+327,"Chicago-Naperville-Elgin, IL-IN-WI",2019-07-01,241.589
+328,"Los Angeles-Long Beach-Anaheim, CA",2019-07-01,274.682
+329,"New York-Newark-Jersey City, NY-NJ-PA",2019-07-01,278.817
+330,"Atlanta-Sandy Springs-Roswell, GA",2019-07-01,
+331,"Baltimore-Columbia-Towson, MD(6)",2019-07-01,
+332,"Detroit-Warren-Dearborn, MI",2019-07-01,
+333,"Houston-The Woodlands-Sugar Land, TX",2019-07-01,
+334,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-07-01,
+335,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-07-01,
+336,"Phoenix-Mesa-Scottsdale, AZ(7)",2019-07-01,
+337,"San Francisco-Oakland-Hayward, CA",2019-07-01,
+338,"Seattle-Tacoma-Bellevue, WA",2019-07-01,
+339,"St. Louis, MO-IL",2019-07-01,
+340,Urban Alaska,2019-07-01,
+341,"Boston-Cambridge-Newton, MA-NH",2019-07-01,280.943
+342,"Dallas-Fort Worth-Arlington, TX",2019-07-01,238.891
+343,"Denver-Aurora-Lakewood, CO",2019-07-01,267.285
+344,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-07-01,251.802
+345,"Riverside-San Bernardino-Ontario, CA(4)",2019-07-01,105.816
+346,"San Diego-Carlsbad, CA",2019-07-01,299.333
+347,"Tampa-St. Petersburg-Clearwater, FL(8)",2019-07-01,229.334
+348,Urban Hawaii,2019-07-01,281.928
+349,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2019-07-01,265.17
+350,U.S. city average,2019-08-01,256.558
+351,Region and area size(2),2019-08-01,
+352,Northeast,2019-08-01,270.548
+353,Northeast - Size Class A,2019-08-01,274.118
+354,Northeast - Size Class B/C(3),2019-08-01,159.041
+355,New England(4),2019-08-01,104.167
+356,Middle Atlantic(4),2019-08-01,103.591
+357,Midwest,2019-08-01,238.786
+358,Midwest - Size Class A,2019-08-01,239.867
+359,Midwest - Size Class B/C(3),2019-08-01,152.492
+360,East North Central(4),2019-08-01,103.521
+361,West North Central(4),2019-08-01,103.681
+362,South,2019-08-01,246.953
+363,South - Size Class A,2019-08-01,251.959
+364,South - Size Class B/C(3),2019-08-01,155.873
+365,South Atlantic(4),2019-08-01,104.152
+366,East South Central(4),2019-08-01,102.59
+367,West South Central(4),2019-08-01,102.868
+368,West,2019-08-01,271.264
+369,West - Size Class A,2019-08-01,279.891
+370,West - Size Class B/C(3),2019-08-01,157.654
+371,Mountain(4),2019-08-01,105.477
+372,Pacific(4),2019-08-01,105.382
+373,Size classes,2019-08-01,
+374,Size Class A(5),2019-08-01,236.839
+375,Size Class B/C(3),2019-08-01,156.02
+376,Selected local areas,2019-08-01,
+377,"Chicago-Naperville-Elgin, IL-IN-WI",2019-08-01,241.985
+378,"Los Angeles-Long Beach-Anaheim, CA",2019-08-01,274.579
+379,"New York-Newark-Jersey City, NY-NJ-PA",2019-08-01,279.428
+380,"Atlanta-Sandy Springs-Roswell, GA",2019-08-01,246.311
+381,"Baltimore-Columbia-Towson, MD(6)",2019-08-01,257.455
+382,"Detroit-Warren-Dearborn, MI",2019-08-01,236.4
+383,"Houston-The Woodlands-Sugar Land, TX",2019-08-01,229.423
+384,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-08-01,270.176
+385,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-08-01,258.877
+386,"Phoenix-Mesa-Scottsdale, AZ(7)",2019-08-01,143.76
+387,"San Francisco-Oakland-Hayward, CA",2019-08-01,295.49
+388,"Seattle-Tacoma-Bellevue, WA",2019-08-01,280.286
+389,"St. Louis, MO-IL",2019-08-01,232.882
+390,Urban Alaska,2019-08-01,230.406
+391,"Boston-Cambridge-Newton, MA-NH",2019-08-01,
+392,"Dallas-Fort Worth-Arlington, TX",2019-08-01,
+393,"Denver-Aurora-Lakewood, CO",2019-08-01,
+394,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-08-01,
+395,"Riverside-San Bernardino-Ontario, CA(4)",2019-08-01,
+396,"San Diego-Carlsbad, CA",2019-08-01,
+397,"Tampa-St. Petersburg-Clearwater, FL(8)",2019-08-01,
+398,Urban Hawaii,2019-08-01,
+399,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2019-08-01,
+400,U.S. city average,2019-09-01,256.759
+401,Region and area size(2),2019-09-01,
+402,Northeast,2019-09-01,270.563
+403,Northeast - Size Class A,2019-09-01,274.058
+404,Northeast - Size Class B/C(3),2019-09-01,159.106
+405,New England(4),2019-09-01,104.346
+406,Middle Atlantic(4),2019-09-01,103.535
+407,Midwest,2019-09-01,238.847
+408,Midwest - Size Class A,2019-09-01,239.885
+409,Midwest - Size Class B/C(3),2019-09-01,152.549
+410,East North Central(4),2019-09-01,103.564
+411,West North Central(4),2019-09-01,103.674
+412,South,2019-09-01,246.891
+413,South - Size Class A,2019-09-01,252.235
+414,South - Size Class B/C(3),2019-09-01,155.717
+415,South Atlantic(4),2019-09-01,104.108
+416,East South Central(4),2019-09-01,102.397
+417,West South Central(4),2019-09-01,102.954
+418,West,2019-09-01,272.102
+419,West - Size Class A,2019-09-01,281.35
+420,West - Size Class B/C(3),2019-09-01,157.738
+421,Mountain(4),2019-09-01,105.822
+422,Pacific(4),2019-09-01,105.701
+423,Size classes,2019-09-01,
+424,Size Class A(5),2019-09-01,237.29
+425,Size Class B/C(3),2019-09-01,155.997
+426,Selected local areas,2019-09-01,
+427,"Chicago-Naperville-Elgin, IL-IN-WI",2019-09-01,242.393
+428,"Los Angeles-Long Beach-Anaheim, CA",2019-09-01,276.054
+429,"New York-Newark-Jersey City, NY-NJ-PA",2019-09-01,279.338
+430,"Atlanta-Sandy Springs-Roswell, GA",2019-09-01,
+431,"Baltimore-Columbia-Towson, MD(6)",2019-09-01,
+432,"Detroit-Warren-Dearborn, MI",2019-09-01,
+433,"Houston-The Woodlands-Sugar Land, TX",2019-09-01,
+434,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-09-01,
+435,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-09-01,
+436,"Phoenix-Mesa-Scottsdale, AZ(7)",2019-09-01,
+437,"San Francisco-Oakland-Hayward, CA",2019-09-01,
+438,"Seattle-Tacoma-Bellevue, WA",2019-09-01,
+439,"St. Louis, MO-IL",2019-09-01,
+440,Urban Alaska,2019-09-01,
+441,"Boston-Cambridge-Newton, MA-NH",2019-09-01,281.603
+442,"Dallas-Fort Worth-Arlington, TX",2019-09-01,239.815
+443,"Denver-Aurora-Lakewood, CO",2019-09-01,270.974
+444,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-09-01,251.416
+445,"Riverside-San Bernardino-Ontario, CA(4)",2019-09-01,106.412
+446,"San Diego-Carlsbad, CA",2019-09-01,301.033
+447,"Tampa-St. Petersburg-Clearwater, FL(8)",2019-09-01,229.219
+448,Urban Hawaii,2019-09-01,282.106
+449,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2019-09-01,265.5
+450,U.S. city average,2019-10-01,257.346
+451,Region and area size(2),2019-10-01,
+452,Northeast,2019-10-01,270.348
+453,Northeast - Size Class A,2019-10-01,273.93
+454,Northeast - Size Class B/C(3),2019-10-01,158.912
+455,New England(4),2019-10-01,104.079
+456,Middle Atlantic(4),2019-10-01,103.518
+457,Midwest,2019-10-01,239.243
+458,Midwest - Size Class A,2019-10-01,240.737
+459,Midwest - Size Class B/C(3),2019-10-01,152.615
+460,East North Central(4),2019-10-01,103.804
+461,West North Central(4),2019-10-01,103.704
+462,South,2019-10-01,247.423
+463,South - Size Class A,2019-10-01,252.536
+464,South - Size Class B/C(3),2019-10-01,156.136
+465,South Atlantic(4),2019-10-01,104.365
+466,East South Central(4),2019-10-01,102.457
+467,West South Central(4),2019-10-01,103.193
+468,West,2019-10-01,273.524
+469,West - Size Class A,2019-10-01,282.713
+470,West - Size Class B/C(3),2019-10-01,158.635
+471,Mountain(4),2019-10-01,106.417
+472,Pacific(4),2019-10-01,106.238
+473,Size classes,2019-10-01,
+474,Size Class A(5),2019-10-01,237.845
+475,Size Class B/C(3),2019-10-01,156.347
+476,Selected local areas,2019-10-01,
+477,"Chicago-Naperville-Elgin, IL-IN-WI",2019-10-01,243.236
+478,"Los Angeles-Long Beach-Anaheim, CA",2019-10-01,278.075
+479,"New York-Newark-Jersey City, NY-NJ-PA",2019-10-01,279.255
+480,"Atlanta-Sandy Springs-Roswell, GA",2019-10-01,245.86
+481,"Baltimore-Columbia-Towson, MD(6)",2019-10-01,257.616
+482,"Detroit-Warren-Dearborn, MI",2019-10-01,238.838
+483,"Houston-The Woodlands-Sugar Land, TX",2019-10-01,230.041
+484,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-10-01,271.381
+485,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-10-01,257.966
+486,"Phoenix-Mesa-Scottsdale, AZ(7)",2019-10-01,145.833
+487,"San Francisco-Oakland-Hayward, CA",2019-10-01,298.443
+488,"Seattle-Tacoma-Bellevue, WA",2019-10-01,278.682
+489,"St. Louis, MO-IL",2019-10-01,231.653
+490,Urban Alaska,2019-10-01,227.552
+491,"Boston-Cambridge-Newton, MA-NH",2019-10-01,
+492,"Dallas-Fort Worth-Arlington, TX",2019-10-01,
+493,"Denver-Aurora-Lakewood, CO",2019-10-01,
+494,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-10-01,
+495,"Riverside-San Bernardino-Ontario, CA(4)",2019-10-01,
+496,"San Diego-Carlsbad, CA",2019-10-01,
+497,"Tampa-St. Petersburg-Clearwater, FL(8)",2019-10-01,
+498,Urban Hawaii,2019-10-01,
+499,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2019-10-01,
+500,U.S. city average,2019-11-01,257.208
+501,Region and area size(2),2019-11-01,
+502,Northeast,2019-11-01,270.643
+503,Northeast - Size Class A,2019-11-01,274.354
+504,Northeast - Size Class B/C(3),2019-11-01,158.992
+505,New England(4),2019-11-01,104.359
+506,Middle Atlantic(4),2019-11-01,103.572
+507,Midwest,2019-11-01,238.85
+508,Midwest - Size Class A,2019-11-01,239.956
+509,Midwest - Size Class B/C(3),2019-11-01,152.523
+510,East North Central(4),2019-11-01,103.614
+511,West North Central(4),2019-11-01,103.573
+512,South,2019-11-01,247.385
+513,South - Size Class A,2019-11-01,252.31
+514,South - Size Class B/C(3),2019-11-01,156.176
+515,South Atlantic(4),2019-11-01,104.419
+516,East South Central(4),2019-11-01,102.53
+517,West South Central(4),2019-11-01,103.006
+518,West,2019-11-01,273.128
+519,West - Size Class A,2019-11-01,282.189
+520,West - Size Class B/C(3),2019-11-01,158.482
+521,Mountain(4),2019-11-01,106.361
+522,Pacific(4),2019-11-01,106.048
+523,Size classes,2019-11-01,
+524,Size Class A(5),2019-11-01,237.608
+525,Size Class B/C(3),2019-11-01,156.323
+526,Selected local areas,2019-11-01,
+527,"Chicago-Naperville-Elgin, IL-IN-WI",2019-11-01,242.661
+528,"Los Angeles-Long Beach-Anaheim, CA",2019-11-01,277.239
+529,"New York-Newark-Jersey City, NY-NJ-PA",2019-11-01,279.468
+530,"Atlanta-Sandy Springs-Roswell, GA",2019-11-01,
+531,"Baltimore-Columbia-Towson, MD(6)",2019-11-01,
+532,"Detroit-Warren-Dearborn, MI",2019-11-01,
+533,"Houston-The Woodlands-Sugar Land, TX",2019-11-01,
+534,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-11-01,
+535,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-11-01,
+536,"Phoenix-Mesa-Scottsdale, AZ(7)",2019-11-01,
+537,"San Francisco-Oakland-Hayward, CA",2019-11-01,
+538,"Seattle-Tacoma-Bellevue, WA",2019-11-01,
+539,"St. Louis, MO-IL",2019-11-01,
+540,Urban Alaska,2019-11-01,
+541,"Boston-Cambridge-Newton, MA-NH",2019-11-01,283.526
+542,"Dallas-Fort Worth-Arlington, TX",2019-11-01,238.768
+543,"Denver-Aurora-Lakewood, CO",2019-11-01,271.142
+544,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-11-01,250.997
+545,"Riverside-San Bernardino-Ontario, CA(4)",2019-11-01,106.573
+546,"San Diego-Carlsbad, CA",2019-11-01,301.52
+547,"Tampa-St. Petersburg-Clearwater, FL(8)",2019-11-01,229.74
+548,Urban Hawaii,2019-11-01,282.248
+549,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2019-11-01,265.026
+550,U.S. city average,2019-12-01,256.974
+551,Region and area size(2),2019-12-01,
+552,Northeast,2019-12-01,270.429
+553,Northeast - Size Class A,2019-12-01,274.33
+554,Northeast - Size Class B/C(3),2019-12-01,158.721
+555,New England(4),2019-12-01,104.273
+556,Middle Atlantic(4),2019-12-01,103.492
+557,Midwest,2019-12-01,238.734
+558,Midwest - Size Class A,2019-12-01,239.925
+559,Midwest - Size Class B/C(3),2019-12-01,152.413
+560,East North Central(4),2019-12-01,103.605
+561,West North Central(4),2019-12-01,103.437
+562,South,2019-12-01,247.289
+563,South - Size Class A,2019-12-01,252.049
+564,South - Size Class B/C(3),2019-12-01,156.171
+565,South Atlantic(4),2019-12-01,104.478
+566,East South Central(4),2019-12-01,102.426
+567,West South Central(4),2019-12-01,102.815
+568,West,2019-12-01,272.584
+569,West - Size Class A,2019-12-01,281.143
+570,West - Size Class B/C(3),2019-12-01,158.496
+571,Mountain(4),2019-12-01,106.399
+572,Pacific(4),2019-12-01,105.744
+573,Size classes,2019-12-01,
+574,Size Class A(5),2019-12-01,237.251
+575,Size Class B/C(3),2019-12-01,156.258
+576,Selected local areas,2019-12-01,
+577,"Chicago-Naperville-Elgin, IL-IN-WI",2019-12-01,242.079
+578,"Los Angeles-Long Beach-Anaheim, CA",2019-12-01,275.553
+579,"New York-Newark-Jersey City, NY-NJ-PA",2019-12-01,279.816
+580,"Atlanta-Sandy Springs-Roswell, GA",2019-12-01,245.076
+581,"Baltimore-Columbia-Towson, MD(6)",2019-12-01,257.847
+582,"Detroit-Warren-Dearborn, MI",2019-12-01,237.514
+583,"Houston-The Woodlands-Sugar Land, TX",2019-12-01,228.765
+584,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-12-01,270.918
+585,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-12-01,257.194
+586,"Phoenix-Mesa-Scottsdale, AZ(7)",2019-12-01,144.91
+587,"San Francisco-Oakland-Hayward, CA",2019-12-01,297.007
+588,"Seattle-Tacoma-Bellevue, WA",2019-12-01,279.421
+589,"St. Louis, MO-IL",2019-12-01,231.42
+590,Urban Alaska,2019-12-01,226.527
+591,"Boston-Cambridge-Newton, MA-NH",2019-12-01,
+592,"Dallas-Fort Worth-Arlington, TX",2019-12-01,
+593,"Denver-Aurora-Lakewood, CO",2019-12-01,
+594,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-12-01,
+595,"Riverside-San Bernardino-Ontario, CA(4)",2019-12-01,
+596,"San Diego-Carlsbad, CA",2019-12-01,
+597,"Tampa-St. Petersburg-Clearwater, FL(8)",2019-12-01,
+598,Urban Hawaii,2019-12-01,
+599,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2019-12-01,

@@ -1,0 +1,601 @@
+,Area,Date,Unadjusted CPI Index
+0,U.S. city average,2023-01-01,299.17
+1,Region and area size(2),2023-01-01,
+2,Northeast,2023-01-01,310.323
+3,Northeast - Size Class A,2023-01-01,313.062
+4,Northeast - Size Class B/C(3),2023-01-01,183.459
+5,New England(4),2023-01-01,118.841
+6,Middle Atlantic(4),2023-01-01,119.078
+7,Midwest,2023-01-01,277.332
+8,Midwest - Size Class A,2023-01-01,275.942
+9,Midwest - Size Class B/C(3),2023-01-01,178.116
+10,East North Central(4),2023-01-01,120.275
+11,West North Central(4),2023-01-01,120.372
+12,South,2023-01-01,290.438
+13,South - Size Class A,2023-01-01,295.376
+14,South - Size Class B/C(3),2023-01-01,183.679
+15,South Atlantic(4),2023-01-01,123.184
+16,East South Central(4),2023-01-01,119.81
+17,West South Central(4),2023-01-01,120.118
+18,West,2023-01-01,317.477
+19,West - Size Class A,2023-01-01,327.337
+20,West - Size Class B/C(3),2023-01-01,184.717
+21,Mountain(4),2023-01-01,126.0
+22,Pacific(4),2023-01-01,122.406
+23,Size classes,2023-01-01,
+24,Size Class A(5),2023-01-01,274.831
+25,Size Class B/C(3),2023-01-01,182.684
+26,Selected local areas,2023-01-01,
+27,"Chicago-Naperville-Elgin, IL-IN-WI",2023-01-01,276.982
+28,"Los Angeles-Long Beach-Anaheim, CA",2023-01-01,318.591
+29,"New York-Newark-Jersey City, NY-NJ-PA",2023-01-01,318.151
+30,"Atlanta-Sandy Springs-Roswell, GA",2023-01-01,
+31,"Baltimore-Columbia-Towson, MD(6)",2023-01-01,
+32,"Detroit-Warren-Dearborn, MI",2023-01-01,
+33,"Houston-The Woodlands-Sugar Land, TX",2023-01-01,
+34,"Miami-Fort Lauderdale-West Palm Beach, FL",2023-01-01,
+35,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2023-01-01,
+36,"Phoenix-Mesa-Scottsdale, AZ(7)",2023-01-01,
+37,"San Francisco-Oakland-Hayward, CA",2023-01-01,
+38,"Seattle-Tacoma-Bellevue, WA",2023-01-01,
+39,"St. Louis, MO-IL",2023-01-01,
+40,Urban Alaska,2023-01-01,
+41,"Boston-Cambridge-Newton, MA-NH",2023-01-01,324.27
+42,"Dallas-Fort Worth-Arlington, TX",2023-01-01,281.117
+43,"Denver-Aurora-Lakewood, CO",2023-01-01,312.392
+44,"Minneapolis-St.Paul-Bloomington, MN-WI",2023-01-01,288.761
+45,"Riverside-San Bernardino-Ontario, CA(4)",2023-01-01,127.683
+46,"San Diego-Carlsbad, CA",2023-01-01,354.453
+47,"Tampa-St. Petersburg-Clearwater, FL(8)",2023-01-01,285.267
+48,Urban Hawaii,2023-01-01,320.79
+49,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2023-01-01,299.149
+50,U.S. city average,2023-02-01,300.84
+51,Region and area size(2),2023-02-01,
+52,Northeast,2023-02-01,311.986
+53,Northeast - Size Class A,2023-02-01,314.914
+54,Northeast - Size Class B/C(3),2023-02-01,184.308
+55,New England(4),2023-02-01,119.083
+56,Middle Atlantic(4),2023-02-01,119.859
+57,Midwest,2023-02-01,278.672
+58,Midwest - Size Class A,2023-02-01,277.09
+59,Midwest - Size Class B/C(3),2023-02-01,179.052
+60,East North Central(4),2023-02-01,120.738
+61,West North Central(4),2023-02-01,121.216
+62,South,2023-02-01,292.285
+63,South - Size Class A,2023-02-01,297.391
+64,South - Size Class B/C(3),2023-02-01,184.804
+65,South Atlantic(4),2023-02-01,123.943
+66,East South Central(4),2023-02-01,120.973
+67,West South Central(4),2023-02-01,120.727
+68,West,2023-02-01,319.13
+69,West - Size Class A,2023-02-01,328.569
+70,West - Size Class B/C(3),2023-02-01,185.968
+71,Mountain(4),2023-02-01,126.934
+72,Pacific(4),2023-02-01,122.935
+73,Size classes,2023-02-01,
+74,Size Class A(5),2023-02-01,276.262
+75,Size Class B/C(3),2023-02-01,183.757
+76,Selected local areas,2023-02-01,
+77,"Chicago-Naperville-Elgin, IL-IN-WI",2023-02-01,277.978
+78,"Los Angeles-Long Beach-Anaheim, CA",2023-02-01,317.571
+79,"New York-Newark-Jersey City, NY-NJ-PA",2023-02-01,319.295
+80,"Atlanta-Sandy Springs-Roswell, GA",2023-02-01,299.916
+81,"Baltimore-Columbia-Towson, MD(6)",2023-02-01,303.749
+82,"Detroit-Warren-Dearborn, MI",2023-02-01,276.741
+83,"Houston-The Woodlands-Sugar Land, TX",2023-02-01,263.537
+84,"Miami-Fort Lauderdale-West Palm Beach, FL",2023-02-01,329.065
+85,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2023-02-01,300.882
+86,"Phoenix-Mesa-Scottsdale, AZ(7)",2023-02-01,177.118
+87,"San Francisco-Oakland-Hayward, CA",2023-02-01,337.173
+88,"Seattle-Tacoma-Bellevue, WA",2023-02-01,334.987
+89,"St. Louis, MO-IL",2023-02-01,271.581
+90,Urban Alaska,2023-02-01,256.856
+91,"Boston-Cambridge-Newton, MA-NH",2023-02-01,
+92,"Dallas-Fort Worth-Arlington, TX",2023-02-01,
+93,"Denver-Aurora-Lakewood, CO",2023-02-01,
+94,"Minneapolis-St.Paul-Bloomington, MN-WI",2023-02-01,
+95,"Riverside-San Bernardino-Ontario, CA(4)",2023-02-01,
+96,"San Diego-Carlsbad, CA",2023-02-01,
+97,"Tampa-St. Petersburg-Clearwater, FL(8)",2023-02-01,
+98,Urban Hawaii,2023-02-01,
+99,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2023-02-01,
+100,U.S. city average,{year}-03-01,301.836
+101,Region and area size(2),{year}-03-01,
+102,Northeast,{year}-03-01,311.243
+103,Northeast - Size Class A,{year}-03-01,314.624
+104,Northeast - Size Class B/C(3),{year}-03-01,183.514
+105,New England(4),{year}-03-01,119.099
+106,Middle Atlantic(4),{year}-03-01,119.465
+107,Midwest,{year}-03-01,280.33
+108,Midwest - Size Class A,{year}-03-01,278.882
+109,Midwest - Size Class B/C(3),{year}-03-01,180.059
+110,East North Central(4),{year}-03-01,121.651
+111,West North Central(4),{year}-03-01,121.506
+112,South,{year}-03-01,293.358
+113,South - Size Class A,{year}-03-01,298.969
+114,South - Size Class B/C(3),{year}-03-01,185.325
+115,South Atlantic(4),{year}-03-01,124.513
+116,East South Central(4),{year}-03-01,121.282
+117,West South Central(4),{year}-03-01,121.013
+118,West,{year}-03-01,320.715
+119,West - Size Class A,{year}-03-01,329.536
+120,West - Size Class B/C(3),{year}-03-01,187.301
+121,Mountain(4),{year}-03-01,127.95
+122,Pacific(4),{year}-03-01,123.395
+123,Size classes,{year}-03-01,
+124,Size Class A(5),{year}-03-01,277.162
+125,Size Class B/C(3),{year}-03-01,184.373
+126,Selected local areas,{year}-03-01,
+127,"Chicago-Naperville-Elgin, IL-IN-WI",{year}-03-01,280.279
+128,"Los Angeles-Long Beach-Anaheim, CA",{year}-03-01,317.873
+129,"New York-Newark-Jersey City, NY-NJ-PA",{year}-03-01,319.038
+130,"Atlanta-Sandy Springs-Roswell, GA",{year}-03-01,
+131,"Baltimore-Columbia-Towson, MD(6)",{year}-03-01,
+132,"Detroit-Warren-Dearborn, MI",{year}-03-01,
+133,"Houston-The Woodlands-Sugar Land, TX",{year}-03-01,
+134,"Miami-Fort Lauderdale-West Palm Beach, FL",{year}-03-01,
+135,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",{year}-03-01,
+136,"Phoenix-Mesa-Scottsdale, AZ(7)",{year}-03-01,
+137,"San Francisco-Oakland-Hayward, CA",{year}-03-01,
+138,"Seattle-Tacoma-Bellevue, WA",{year}-03-01,
+139,"St. Louis, MO-IL",{year}-03-01,
+140,Urban Alaska,{year}-03-01,
+141,"Boston-Cambridge-Newton, MA-NH",{year}-03-01,324.859
+142,"Dallas-Fort Worth-Arlington, TX",{year}-03-01,284.862
+143,"Denver-Aurora-Lakewood, CO",{year}-03-01,316.566
+144,"Minneapolis-St.Paul-Bloomington, MN-WI",{year}-03-01,289.968
+145,"Riverside-San Bernardino-Ontario, CA(4)",{year}-03-01,127.707
+146,"San Diego-Carlsbad, CA",{year}-03-01,358.026
+147,"Tampa-St. Petersburg-Clearwater, FL(8)",{year}-03-01,288.319
+148,Urban Hawaii,{year}-03-01,322.608
+149,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",{year}-03-01,302.93
+150,U.S. city average,2023-04-01,303.363
+151,Region and area size(2),2023-04-01,
+152,Northeast,2023-04-01,311.848
+153,Northeast - Size Class A,2023-04-01,314.883
+154,Northeast - Size Class B/C(3),2023-04-01,184.143
+155,New England(4),2023-04-01,119.459
+156,Middle Atlantic(4),2023-04-01,119.651
+157,Midwest,2023-04-01,281.927
+158,Midwest - Size Class A,2023-04-01,280.827
+159,Midwest - Size Class B/C(3),2023-04-01,180.94
+160,East North Central(4),2023-04-01,122.432
+161,West North Central(4),2023-04-01,122.002
+162,South,2023-04-01,295.315
+163,South - Size Class A,2023-04-01,300.758
+164,South - Size Class B/C(3),2023-04-01,186.628
+165,South Atlantic(4),2023-04-01,125.328
+166,East South Central(4),2023-04-01,122.069
+167,West South Central(4),2023-04-01,121.862
+168,West,2023-04-01,322.187
+169,West - Size Class A,2023-04-01,331.296
+170,West - Size Class B/C(3),2023-04-01,188.008
+171,Mountain(4),2023-04-01,128.39
+172,Pacific(4),2023-04-01,124.019
+173,Size classes,2023-04-01,
+174,Size Class A(5),2023-04-01,278.466
+175,Size Class B/C(3),2023-04-01,185.357
+176,Selected local areas,2023-04-01,
+177,"Chicago-Naperville-Elgin, IL-IN-WI",2023-04-01,282.423
+178,"Los Angeles-Long Beach-Anaheim, CA",2023-04-01,320.089
+179,"New York-Newark-Jersey City, NY-NJ-PA",2023-04-01,319.211
+180,"Atlanta-Sandy Springs-Roswell, GA",2023-04-01,301.447
+181,"Baltimore-Columbia-Towson, MD(6)",2023-04-01,306.015
+182,"Detroit-Warren-Dearborn, MI",2023-04-01,282.486
+183,"Houston-The Woodlands-Sugar Land, TX",2023-04-01,267.002
+184,"Miami-Fort Lauderdale-West Palm Beach, FL",2023-04-01,333.592
+185,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2023-04-01,301.225
+186,"Phoenix-Mesa-Scottsdale, AZ(7)",2023-04-01,179.824
+187,"San Francisco-Oakland-Hayward, CA",2023-04-01,338.496
+188,"Seattle-Tacoma-Bellevue, WA",2023-04-01,338.487
+189,"St. Louis, MO-IL",2023-04-01,273.234
+190,Urban Alaska,2023-04-01,258.866
+191,"Boston-Cambridge-Newton, MA-NH",2023-04-01,
+192,"Dallas-Fort Worth-Arlington, TX",2023-04-01,
+193,"Denver-Aurora-Lakewood, CO",2023-04-01,
+194,"Minneapolis-St.Paul-Bloomington, MN-WI",2023-04-01,
+195,"Riverside-San Bernardino-Ontario, CA(4)",2023-04-01,
+196,"San Diego-Carlsbad, CA",2023-04-01,
+197,"Tampa-St. Petersburg-Clearwater, FL(8)",2023-04-01,
+198,Urban Hawaii,2023-04-01,
+199,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2023-04-01,
+200,U.S. city average,2023-05-01,304.127
+201,Region and area size(2),2023-05-01,
+202,Northeast,2023-05-01,312.241
+203,Northeast - Size Class A,2023-05-01,315.599
+204,Northeast - Size Class B/C(3),2023-05-01,184.128
+205,New England(4),2023-05-01,119.166
+206,Middle Atlantic(4),2023-05-01,119.962
+207,Midwest,2023-05-01,282.656
+208,Midwest - Size Class A,2023-05-01,281.84
+209,Midwest - Size Class B/C(3),2023-05-01,181.292
+210,East North Central(4),2023-05-01,122.832
+211,West North Central(4),2023-05-01,122.132
+212,South,2023-05-01,295.889
+213,South - Size Class A,2023-05-01,302.034
+214,South - Size Class B/C(3),2023-05-01,186.768
+215,South Atlantic(4),2023-05-01,125.605
+216,East South Central(4),2023-05-01,122.567
+217,West South Central(4),2023-05-01,121.902
+218,West,2023-05-01,323.525
+219,West - Size Class A,2023-05-01,332.6
+220,West - Size Class B/C(3),2023-05-01,188.833
+221,Mountain(4),2023-05-01,128.647
+222,Pacific(4),2023-05-01,124.642
+223,Size classes,2023-05-01,
+224,Size Class A(5),2023-05-01,279.46
+225,Size Class B/C(3),2023-05-01,185.672
+226,Selected local areas,2023-05-01,
+227,"Chicago-Naperville-Elgin, IL-IN-WI",2023-05-01,283.415
+228,"Los Angeles-Long Beach-Anaheim, CA",2023-05-01,320.514
+229,"New York-Newark-Jersey City, NY-NJ-PA",2023-05-01,320.002
+230,"Atlanta-Sandy Springs-Roswell, GA",2023-05-01,
+231,"Baltimore-Columbia-Towson, MD(6)",2023-05-01,
+232,"Detroit-Warren-Dearborn, MI",2023-05-01,
+233,"Houston-The Woodlands-Sugar Land, TX",2023-05-01,
+234,"Miami-Fort Lauderdale-West Palm Beach, FL",2023-05-01,
+235,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2023-05-01,
+236,"Phoenix-Mesa-Scottsdale, AZ(7)",2023-05-01,
+237,"San Francisco-Oakland-Hayward, CA",2023-05-01,
+238,"Seattle-Tacoma-Bellevue, WA",2023-05-01,
+239,"St. Louis, MO-IL",2023-05-01,
+240,Urban Alaska,2023-05-01,
+241,"Boston-Cambridge-Newton, MA-NH",2023-05-01,324.927
+242,"Dallas-Fort Worth-Arlington, TX",2023-05-01,287.133
+243,"Denver-Aurora-Lakewood, CO",2023-05-01,319.132
+244,"Minneapolis-St.Paul-Bloomington, MN-WI",2023-05-01,291.001
+245,"Riverside-San Bernardino-Ontario, CA(4)",2023-05-01,128.768
+246,"San Diego-Carlsbad, CA",2023-05-01,361.339
+247,"Tampa-St. Petersburg-Clearwater, FL(8)",2023-05-01,293.269
+248,Urban Hawaii,2023-05-01,323.708
+249,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2023-05-01,305.614
+250,U.S. city average,2023-06-01,305.109
+251,Region and area size(2),2023-06-01,
+252,Northeast,2023-06-01,313.329
+253,Northeast - Size Class A,2023-06-01,316.672
+254,Northeast - Size Class B/C(3),2023-06-01,184.79
+255,New England(4),2023-06-01,119.462
+256,Middle Atlantic(4),2023-06-01,120.423
+257,Midwest,2023-06-01,283.741
+258,Midwest - Size Class A,2023-06-01,282.753
+259,Midwest - Size Class B/C(3),2023-06-01,182.056
+260,East North Central(4),2023-06-01,123.181
+261,West North Central(4),2023-06-01,122.874
+262,South,2023-06-01,296.789
+263,South - Size Class A,2023-06-01,302.839
+264,South - Size Class B/C(3),2023-06-01,187.373
+265,South Atlantic(4),2023-06-01,125.949
+266,East South Central(4),2023-06-01,123.082
+267,West South Central(4),2023-06-01,122.274
+268,West,2023-06-01,324.448
+269,West - Size Class A,2023-06-01,333.674
+270,West - Size Class B/C(3),2023-06-01,189.295
+271,Mountain(4),2023-06-01,128.574
+272,Pacific(4),2023-06-01,125.169
+273,Size classes,2023-06-01,
+274,Size Class A(5),2023-06-01,280.329
+275,Size Class B/C(3),2023-06-01,186.288
+276,Selected local areas,2023-06-01,
+277,"Chicago-Naperville-Elgin, IL-IN-WI",2023-06-01,283.627
+278,"Los Angeles-Long Beach-Anaheim, CA",2023-06-01,322.055
+279,"New York-Newark-Jersey City, NY-NJ-PA",2023-06-01,321.29
+280,"Atlanta-Sandy Springs-Roswell, GA",2023-06-01,305.066
+281,"Baltimore-Columbia-Towson, MD(6)",2023-06-01,306.506
+282,"Detroit-Warren-Dearborn, MI",2023-06-01,285.638
+283,"Houston-The Woodlands-Sugar Land, TX",2023-06-01,268.379
+284,"Miami-Fort Lauderdale-West Palm Beach, FL",2023-06-01,335.27
+285,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2023-06-01,303.446
+286,"Phoenix-Mesa-Scottsdale, AZ(7)",2023-06-01,180.251
+287,"San Francisco-Oakland-Hayward, CA",2023-06-01,340.056
+288,"Seattle-Tacoma-Bellevue, WA",2023-06-01,341.734
+289,"St. Louis, MO-IL",2023-06-01,276.792
+290,Urban Alaska,2023-06-01,259.93
+291,"Boston-Cambridge-Newton, MA-NH",2023-06-01,
+292,"Dallas-Fort Worth-Arlington, TX",2023-06-01,
+293,"Denver-Aurora-Lakewood, CO",2023-06-01,
+294,"Minneapolis-St.Paul-Bloomington, MN-WI",2023-06-01,
+295,"Riverside-San Bernardino-Ontario, CA(4)",2023-06-01,
+296,"San Diego-Carlsbad, CA",2023-06-01,
+297,"Tampa-St. Petersburg-Clearwater, FL(8)",2023-06-01,
+298,Urban Hawaii,2023-06-01,
+299,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2023-06-01,
+300,U.S. city average,2023-07-01,305.691
+301,Region and area size(2),2023-07-01,
+302,Northeast,2023-07-01,313.952
+303,Northeast - Size Class A,2023-07-01,317.576
+304,Northeast - Size Class B/C(3),2023-07-01,184.946
+305,New England(4),2023-07-01,119.39
+306,Middle Atlantic(4),2023-07-01,120.775
+307,Midwest,2023-07-01,284.64
+308,Midwest - Size Class A,2023-07-01,284.803
+309,Midwest - Size Class B/C(3),2023-07-01,182.165
+310,East North Central(4),2023-07-01,123.558
+311,West North Central(4),2023-07-01,123.293
+312,South,2023-07-01,297.279
+313,South - Size Class A,2023-07-01,303.148
+314,South - Size Class B/C(3),2023-07-01,187.743
+315,South Atlantic(4),2023-07-01,126.136
+316,East South Central(4),2023-07-01,123.385
+317,West South Central(4),2023-07-01,122.467
+318,West,2023-07-01,324.865
+319,West - Size Class A,2023-07-01,333.779
+320,West - Size Class B/C(3),2023-07-01,189.737
+321,Mountain(4),2023-07-01,128.805
+322,Pacific(4),2023-07-01,125.304
+323,Size classes,2023-07-01,
+324,Size Class A(5),2023-07-01,280.972
+325,Size Class B/C(3),2023-07-01,186.587
+326,Selected local areas,2023-07-01,
+327,"Chicago-Naperville-Elgin, IL-IN-WI",2023-07-01,283.528
+328,"Los Angeles-Long Beach-Anaheim, CA",2023-07-01,321.931
+329,"New York-Newark-Jersey City, NY-NJ-PA",2023-07-01,322.496
+330,"Atlanta-Sandy Springs-Roswell, GA",2023-07-01,
+331,"Baltimore-Columbia-Towson, MD(6)",2023-07-01,
+332,"Detroit-Warren-Dearborn, MI",2023-07-01,
+333,"Houston-The Woodlands-Sugar Land, TX",2023-07-01,
+334,"Miami-Fort Lauderdale-West Palm Beach, FL",2023-07-01,
+335,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2023-07-01,
+336,"Phoenix-Mesa-Scottsdale, AZ(7)",2023-07-01,
+337,"San Francisco-Oakland-Hayward, CA",2023-07-01,
+338,"Seattle-Tacoma-Bellevue, WA",2023-07-01,
+339,"St. Louis, MO-IL",2023-07-01,
+340,Urban Alaska,2023-07-01,
+341,"Boston-Cambridge-Newton, MA-NH",2023-07-01,324.746
+342,"Dallas-Fort Worth-Arlington, TX",2023-07-01,288.006
+343,"Denver-Aurora-Lakewood, CO",2023-07-01,323.298
+344,"Minneapolis-St.Paul-Bloomington, MN-WI",2023-07-01,292.223
+345,"Riverside-San Bernardino-Ontario, CA(4)",2023-07-01,129.525
+346,"San Diego-Carlsbad, CA",2023-07-01,362.412
+347,"Tampa-St. Petersburg-Clearwater, FL(8)",2023-07-01,292.974
+348,Urban Hawaii,2023-07-01,325.836
+349,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2023-07-01,305.273
+350,U.S. city average,2023-08-01,307.026
+351,Region and area size(2),2023-08-01,
+352,Northeast,2023-08-01,315.441
+353,Northeast - Size Class A,2023-08-01,319.371
+354,Northeast - Size Class B/C(3),2023-08-01,185.6
+355,New England(4),2023-08-01,119.875
+356,Middle Atlantic(4),2023-08-01,121.377
+357,Midwest,2023-08-01,285.122
+358,Midwest - Size Class A,2023-08-01,283.896
+359,Midwest - Size Class B/C(3),2023-08-01,183.036
+360,East North Central(4),2023-08-01,123.424
+361,West North Central(4),2023-08-01,124.262
+362,South,2023-08-01,298.975
+363,South - Size Class A,2023-08-01,304.961
+364,South - Size Class B/C(3),2023-08-01,188.787
+365,South Atlantic(4),2023-08-01,126.873
+366,East South Central(4),2023-08-01,123.838
+367,West South Central(4),2023-08-01,123.258
+368,West,2023-08-01,326.234
+369,West - Size Class A,2023-08-01,335.462
+370,West - Size Class B/C(3),2023-08-01,190.368
+371,Mountain(4),2023-08-01,129.171
+372,Pacific(4),2023-08-01,125.901
+373,Size classes,2023-08-01,
+374,Size Class A(5),2023-08-01,282.112
+375,Size Class B/C(3),2023-08-01,187.447
+376,Selected local areas,2023-08-01,
+377,"Chicago-Naperville-Elgin, IL-IN-WI",2023-08-01,283.957
+378,"Los Angeles-Long Beach-Anaheim, CA",2023-08-01,324.05
+379,"New York-Newark-Jersey City, NY-NJ-PA",2023-08-01,324.38
+380,"Atlanta-Sandy Springs-Roswell, GA",2023-08-01,308.336
+381,"Baltimore-Columbia-Towson, MD(6)",2023-08-01,307.978
+382,"Detroit-Warren-Dearborn, MI",2023-08-01,287.48
+383,"Houston-The Woodlands-Sugar Land, TX",2023-08-01,271.154
+384,"Miami-Fort Lauderdale-West Palm Beach, FL",2023-08-01,339.347
+385,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2023-08-01,305.742
+386,"Phoenix-Mesa-Scottsdale, AZ(7)",2023-08-01,180.387
+387,"San Francisco-Oakland-Hayward, CA",2023-08-01,340.094
+388,"Seattle-Tacoma-Bellevue, WA",2023-08-01,344.449
+389,"St. Louis, MO-IL",2023-08-01,277.451
+390,Urban Alaska,2023-08-01,263.407
+391,"Boston-Cambridge-Newton, MA-NH",2023-08-01,
+392,"Dallas-Fort Worth-Arlington, TX",2023-08-01,
+393,"Denver-Aurora-Lakewood, CO",2023-08-01,
+394,"Minneapolis-St.Paul-Bloomington, MN-WI",2023-08-01,
+395,"Riverside-San Bernardino-Ontario, CA(4)",2023-08-01,
+396,"San Diego-Carlsbad, CA",2023-08-01,
+397,"Tampa-St. Petersburg-Clearwater, FL(8)",2023-08-01,
+398,Urban Hawaii,2023-08-01,
+399,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2023-08-01,
+400,U.S. city average,2023-09-01,307.789
+401,Region and area size(2),2023-09-01,
+402,Northeast,2023-09-01,316.373
+403,Northeast - Size Class A,2023-09-01,320.262
+404,Northeast - Size Class B/C(3),2023-09-01,186.188
+405,New England(4),2023-09-01,120.174
+406,Middle Atlantic(4),2023-09-01,121.756
+407,Midwest,2023-09-01,285.276
+408,Midwest - Size Class A,2023-09-01,284.19
+409,Midwest - Size Class B/C(3),2023-09-01,183.078
+410,East North Central(4),2023-09-01,123.278
+411,West North Central(4),2023-09-01,124.8
+412,South,2023-09-01,299.657
+413,South - Size Class A,2023-09-01,306.034
+414,South - Size Class B/C(3),2023-09-01,189.097
+415,South Atlantic(4),2023-09-01,127.251
+416,East South Central(4),2023-09-01,123.999
+417,West South Central(4),2023-09-01,123.429
+418,West,2023-09-01,327.491
+419,West - Size Class A,2023-09-01,336.532
+420,West - Size Class B/C(3),2023-09-01,191.238
+421,Mountain(4),2023-09-01,129.933
+422,Pacific(4),2023-09-01,126.283
+423,Size classes,2023-09-01,
+424,Size Class A(5),2023-09-01,282.909
+425,Size Class B/C(3),2023-09-01,187.863
+426,Selected local areas,2023-09-01,
+427,"Chicago-Naperville-Elgin, IL-IN-WI",2023-09-01,284.375
+428,"Los Angeles-Long Beach-Anaheim, CA",2023-09-01,324.984
+429,"New York-Newark-Jersey City, NY-NJ-PA",2023-09-01,325.613
+430,"Atlanta-Sandy Springs-Roswell, GA",2023-09-01,
+431,"Baltimore-Columbia-Towson, MD(6)",2023-09-01,
+432,"Detroit-Warren-Dearborn, MI",2023-09-01,
+433,"Houston-The Woodlands-Sugar Land, TX",2023-09-01,
+434,"Miami-Fort Lauderdale-West Palm Beach, FL",2023-09-01,
+435,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2023-09-01,
+436,"Phoenix-Mesa-Scottsdale, AZ(7)",2023-09-01,
+437,"San Francisco-Oakland-Hayward, CA",2023-09-01,
+438,"Seattle-Tacoma-Bellevue, WA",2023-09-01,
+439,"St. Louis, MO-IL",2023-09-01,
+440,Urban Alaska,2023-09-01,
+441,"Boston-Cambridge-Newton, MA-NH",2023-09-01,327.145
+442,"Dallas-Fort Worth-Arlington, TX",2023-09-01,291.001
+443,"Denver-Aurora-Lakewood, CO",2023-09-01,324.704
+444,"Minneapolis-St.Paul-Bloomington, MN-WI",2023-09-01,296.73
+445,"Riverside-San Bernardino-Ontario, CA(4)",2023-09-01,131.372
+446,"San Diego-Carlsbad, CA",2023-09-01,367.185
+447,"Tampa-St. Petersburg-Clearwater, FL(8)",2023-09-01,296.146
+448,Urban Hawaii,2023-09-01,328.905
+449,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2023-09-01,309.254
+450,U.S. city average,2023-10-01,307.671
+451,Region and area size(2),2023-10-01,
+452,Northeast,2023-10-01,316.3
+453,Northeast - Size Class A,2023-10-01,320.051
+454,Northeast - Size Class B/C(3),2023-10-01,186.251
+455,New England(4),2023-10-01,120.315
+456,Middle Atlantic(4),2023-10-01,121.666
+457,Midwest,2023-10-01,284.981
+458,Midwest - Size Class A,2023-10-01,284.18
+459,Midwest - Size Class B/C(3),2023-10-01,182.774
+460,East North Central(4),2023-10-01,123.157
+461,West North Central(4),2023-10-01,124.658
+462,South,2023-10-01,299.394
+463,South - Size Class A,2023-10-01,305.774
+464,South - Size Class B/C(3),2023-10-01,188.928
+465,South Atlantic(4),2023-10-01,127.15
+466,East South Central(4),2023-10-01,123.92
+467,West South Central(4),2023-10-01,123.284
+468,West,2023-10-01,327.708
+469,West - Size Class A,2023-10-01,336.826
+470,West - Size Class B/C(3),2023-10-01,191.321
+471,Mountain(4),2023-10-01,129.978
+472,Pacific(4),2023-10-01,126.382
+473,Size classes,2023-10-01,
+474,Size Class A(5),2023-10-01,282.872
+475,Size Class B/C(3),2023-10-01,187.754
+476,Selected local areas,2023-10-01,
+477,"Chicago-Naperville-Elgin, IL-IN-WI",2023-10-01,285.211
+478,"Los Angeles-Long Beach-Anaheim, CA",2023-10-01,324.545
+479,"New York-Newark-Jersey City, NY-NJ-PA",2023-10-01,325.288
+480,"Atlanta-Sandy Springs-Roswell, GA",2023-10-01,306.435
+481,"Baltimore-Columbia-Towson, MD(6)",2023-10-01,307.284
+482,"Detroit-Warren-Dearborn, MI",2023-10-01,283.874
+483,"Houston-The Woodlands-Sugar Land, TX",2023-10-01,270.329
+484,"Miami-Fort Lauderdale-West Palm Beach, FL",2023-10-01,341.18
+485,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2023-10-01,306.276
+486,"Phoenix-Mesa-Scottsdale, AZ(7)",2023-10-01,181.391
+487,"San Francisco-Oakland-Hayward, CA",2023-10-01,341.219
+488,"Seattle-Tacoma-Bellevue, WA",2023-10-01,345.992
+489,"St. Louis, MO-IL",2023-10-01,277.471
+490,Urban Alaska,2023-10-01,263.984
+491,"Boston-Cambridge-Newton, MA-NH",2023-10-01,
+492,"Dallas-Fort Worth-Arlington, TX",2023-10-01,
+493,"Denver-Aurora-Lakewood, CO",2023-10-01,
+494,"Minneapolis-St.Paul-Bloomington, MN-WI",2023-10-01,
+495,"Riverside-San Bernardino-Ontario, CA(4)",2023-10-01,
+496,"San Diego-Carlsbad, CA",2023-10-01,
+497,"Tampa-St. Petersburg-Clearwater, FL(8)",2023-10-01,
+498,Urban Hawaii,2023-10-01,
+499,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2023-10-01,
+500,U.S. city average,2023-11-01,307.051
+501,Region and area size(2),2023-11-01,
+502,Northeast,2023-11-01,316.252
+503,Northeast - Size Class A,2023-11-01,319.788
+504,Northeast - Size Class B/C(3),2023-11-01,186.389
+505,New England(4),2023-11-01,120.745
+506,Middle Atlantic(4),2023-11-01,121.486
+507,Midwest,2023-11-01,284.539
+508,Midwest - Size Class A,2023-11-01,283.4
+509,Midwest - Size Class B/C(3),2023-11-01,182.628
+510,East North Central(4),2023-11-01,123.038
+511,West North Central(4),2023-11-01,124.305
+512,South,2023-11-01,298.93
+513,South - Size Class A,2023-11-01,305.824
+514,South - Size Class B/C(3),2023-11-01,188.467
+515,South Atlantic(4),2023-11-01,126.979
+516,East South Central(4),2023-11-01,123.556
+517,West South Central(4),2023-11-01,123.129
+518,West,2023-11-01,326.299
+519,West - Size Class A,2023-11-01,335.522
+520,West - Size Class B/C(3),2023-11-01,190.409
+521,Mountain(4),2023-11-01,129.252
+522,Pacific(4),2023-11-01,125.904
+523,Size classes,2023-11-01,
+524,Size Class A(5),2023-11-01,282.358
+525,Size Class B/C(3),2023-11-01,187.346
+526,Selected local areas,2023-11-01,
+527,"Chicago-Naperville-Elgin, IL-IN-WI",2023-11-01,283.859
+528,"Los Angeles-Long Beach-Anaheim, CA",2023-11-01,323.341
+529,"New York-Newark-Jersey City, NY-NJ-PA",2023-11-01,324.52
+530,"Atlanta-Sandy Springs-Roswell, GA",2023-11-01,
+531,"Baltimore-Columbia-Towson, MD(6)",2023-11-01,
+532,"Detroit-Warren-Dearborn, MI",2023-11-01,
+533,"Houston-The Woodlands-Sugar Land, TX",2023-11-01,
+534,"Miami-Fort Lauderdale-West Palm Beach, FL",2023-11-01,
+535,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2023-11-01,
+536,"Phoenix-Mesa-Scottsdale, AZ(7)",2023-11-01,
+537,"San Francisco-Oakland-Hayward, CA",2023-11-01,
+538,"Seattle-Tacoma-Bellevue, WA",2023-11-01,
+539,"St. Louis, MO-IL",2023-11-01,
+540,Urban Alaska,2023-11-01,
+541,"Boston-Cambridge-Newton, MA-NH",2023-11-01,328.362
+542,"Dallas-Fort Worth-Arlington, TX",2023-11-01,293.591
+543,"Denver-Aurora-Lakewood, CO",2023-11-01,323.598
+544,"Minneapolis-St.Paul-Bloomington, MN-WI",2023-11-01,295.511
+545,"Riverside-San Bernardino-Ontario, CA(4)",2023-11-01,131.372
+546,"San Diego-Carlsbad, CA",2023-11-01,366.343
+547,"Tampa-St. Petersburg-Clearwater, FL(8)",2023-11-01,295.029
+548,Urban Hawaii,2023-11-01,331.428
+549,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2023-11-01,308.419
+550,U.S. city average,2023-12-01,306.746
+551,Region and area size(2),2023-12-01,
+552,Northeast,2023-12-01,316.143
+553,Northeast - Size Class A,2023-12-01,320.124
+554,Northeast - Size Class B/C(3),2023-12-01,185.979
+555,New England(4),2023-12-01,120.579
+556,Middle Atlantic(4),2023-12-01,121.489
+557,Midwest,2023-12-01,283.908
+558,Midwest - Size Class A,2023-12-01,283.197
+559,Midwest - Size Class B/C(3),2023-12-01,182.05
+560,East North Central(4),2023-12-01,122.867
+561,West North Central(4),2023-12-01,123.803
+562,South,2023-12-01,298.754
+563,South - Size Class A,2023-12-01,305.927
+564,South - Size Class B/C(3),2023-12-01,188.266
+565,South Atlantic(4),2023-12-01,126.951
+566,East South Central(4),2023-12-01,123.186
+567,West South Central(4),2023-12-01,123.115
+568,West,2023-12-01,325.932
+569,West - Size Class A,2023-12-01,335.308
+570,West - Size Class B/C(3),2023-12-01,190.095
+571,Mountain(4),2023-12-01,129.156
+572,Pacific(4),2023-12-01,125.743
+573,Size classes,2023-12-01,
+574,Size Class A(5),2023-12-01,282.367
+575,Size Class B/C(3),2023-12-01,187.01
+576,Selected local areas,2023-12-01,
+577,"Chicago-Naperville-Elgin, IL-IN-WI",2023-12-01,283.76
+578,"Los Angeles-Long Beach-Anaheim, CA",2023-12-01,323.456
+579,"New York-Newark-Jersey City, NY-NJ-PA",2023-12-01,324.691
+580,"Atlanta-Sandy Springs-Roswell, GA",2023-12-01,305.978
+581,"Baltimore-Columbia-Towson, MD(6)",2023-12-01,306.379
+582,"Detroit-Warren-Dearborn, MI",2023-12-01,283.757
+583,"Houston-The Woodlands-Sugar Land, TX",2023-12-01,270.133
+584,"Miami-Fort Lauderdale-West Palm Beach, FL",2023-12-01,340.459
+585,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2023-12-01,306.386
+586,"Phoenix-Mesa-Scottsdale, AZ(7)",2023-12-01,179.733
+587,"San Francisco-Oakland-Hayward, CA",2023-12-01,339.915
+588,"Seattle-Tacoma-Bellevue, WA",2023-12-01,344.982
+589,"St. Louis, MO-IL",2023-12-01,276.991
+590,Urban Alaska,2023-12-01,261.178
+591,"Boston-Cambridge-Newton, MA-NH",2023-12-01,
+592,"Dallas-Fort Worth-Arlington, TX",2023-12-01,
+593,"Denver-Aurora-Lakewood, CO",2023-12-01,
+594,"Minneapolis-St.Paul-Bloomington, MN-WI",2023-12-01,
+595,"Riverside-San Bernardino-Ontario, CA(4)",2023-12-01,
+596,"San Diego-Carlsbad, CA",2023-12-01,
+597,"Tampa-St. Petersburg-Clearwater, FL(8)",2023-12-01,
+598,Urban Hawaii,2023-12-01,
+599,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2023-12-01,

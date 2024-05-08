@@ -1,0 +1,421 @@
+,Area,Date,Unadjusted CPI Index
+0,U.S. city average,2015-01-01,233.707
+1,Region and area size(2),2015-01-01,
+2,Northeast urban,2015-01-01,250.016
+3,"Size A - More than 1,500,000",2015-01-01,252.758
+4,"Size B/C - 50,000 to 1,500,000(3)",2015-01-01,147.599
+5,Midwest urban,2015-01-01,221.545
+6,"Size A - More than 1,500,000",2015-01-01,221.935
+7,"Size B/C - 50,000 to 1,500,000(3)",2015-01-01,142.523
+8,"Size D -  Nonmetropolitan  (less than 50,000)",2015-01-01,218.08
+9,South urban,2015-01-01,226.855
+10,"Size A - More than 1,500,000",2015-01-01,229.071
+11,"Size B/C - 50,000 to 1,500,000(3)",2015-01-01,143.769
+12,"Size D -  Nonmetropolitan  (less than 50,000)",2015-01-01,233.145
+13,West urban,2015-01-01,238.318
+14,"Size A - More than 1,500,000",2015-01-01,243.655
+15,"Size B/C - 50,000 to 1,500,000(3)",2015-01-01,142.022
+16,Size classes,2015-01-01,
+17,A(4),2015-01-01,213.966
+18,B/C(3),2015-01-01,143.695
+19,D,2015-01-01,228.565
+20,Selected local areas(5),2015-01-01,
+21,"Chicago-Gary-Kenosha, IL-IN-WI",2015-01-01,225.852
+22,"Los Angeles-Riverside-Orange County, CA",2015-01-01,239.724
+23,"New York-Northern N.J.-Long Island, NY-NJ-CT-PA",2015-01-01,258.376
+24,"Boston-Brockton-Nashua, MA-NH-ME-CT",2015-01-01,254.556
+25,"Cleveland-Akron, OH",2015-01-01,218.536
+26,"Dallas-Fort Worth, TX",2015-01-01,214.899
+27,"Washington-Baltimore, DC-MD-VA-WV(6)",2015-01-01,153.376
+28,"Atlanta, GA",2015-01-01,
+29,"Detroit-Ann Arbor-Flint, MI",2015-01-01,
+30,"Houston-Galveston-Brazoria, TX",2015-01-01,
+31,"Miami-Fort Lauderdale, FL",2015-01-01,
+32,"Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD",2015-01-01,
+33,"San Francisco-Oakland-San Jose, CA",2015-01-01,
+34,"Seattle-Tacoma-Bremerton, WA",2015-01-01,
+35,U.S. city average,2015-02-01,234.722
+36,Region and area size(2),2015-02-01,
+37,Northeast urban,2015-02-01,250.619
+38,"Size A - More than 1,500,000",2015-02-01,253.614
+39,"Size B/C - 50,000 to 1,500,000(3)",2015-02-01,147.565
+40,Midwest urban,2015-02-01,222.301
+41,"Size A - More than 1,500,000",2015-02-01,222.441
+42,"Size B/C - 50,000 to 1,500,000(3)",2015-02-01,143.184
+43,"Size D -  Nonmetropolitan  (less than 50,000)",2015-02-01,219.279
+44,South urban,2015-02-01,227.944
+45,"Size A - More than 1,500,000",2015-02-01,229.901
+46,"Size B/C - 50,000 to 1,500,000(3)",2015-02-01,144.591
+47,"Size D -  Nonmetropolitan  (less than 50,000)",2015-02-01,234.283
+48,West urban,2015-02-01,239.748
+49,"Size A - More than 1,500,000",2015-02-01,245.027
+50,"Size B/C - 50,000 to 1,500,000(3)",2015-02-01,143.005
+51,Size classes,2015-02-01,
+52,A(4),2015-02-01,214.804
+53,B/C(3),2015-02-01,144.386
+54,D,2015-02-01,229.805
+55,Selected local areas(5),2015-02-01,
+56,"Chicago-Gary-Kenosha, IL-IN-WI",2015-02-01,225.763
+57,"Los Angeles-Riverside-Orange County, CA",2015-02-01,241.297
+58,"New York-Northern N.J.-Long Island, NY-NJ-CT-PA",2015-02-01,259.24
+59,"Boston-Brockton-Nashua, MA-NH-ME-CT",2015-02-01,
+60,"Cleveland-Akron, OH",2015-02-01,
+61,"Dallas-Fort Worth, TX",2015-02-01,
+62,"Washington-Baltimore, DC-MD-VA-WV(6)",2015-02-01,
+63,"Atlanta, GA",2015-02-01,218.123
+64,"Detroit-Ann Arbor-Flint, MI",2015-02-01,216.488
+65,"Houston-Galveston-Brazoria, TX",2015-02-01,210.283
+66,"Miami-Fort Lauderdale, FL",2015-02-01,243.283
+67,"Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD",2015-02-01,242.424
+68,"San Francisco-Oakland-San Jose, CA",2015-02-01,254.91
+69,"Seattle-Tacoma-Bremerton, WA",2015-02-01,245.496
+70,U.S. city average,{year}-03-01,236.119
+71,Region and area size(2),{year}-03-01,
+72,Northeast urban,{year}-03-01,251.451
+73,"Size A - More than 1,500,000",{year}-03-01,254.348
+74,"Size B/C - 50,000 to 1,500,000(3)",{year}-03-01,148.225
+75,Midwest urban,{year}-03-01,223.55
+76,"Size A - More than 1,500,000",{year}-03-01,223.624
+77,"Size B/C - 50,000 to 1,500,000(3)",{year}-03-01,144.018
+78,"Size D -  Nonmetropolitan  (less than 50,000)",{year}-03-01,220.708
+79,South urban,{year}-03-01,229.337
+80,"Size A - More than 1,500,000",{year}-03-01,231.496
+81,"Size B/C - 50,000 to 1,500,000(3)",{year}-03-01,145.392
+82,"Size D -  Nonmetropolitan  (less than 50,000)",{year}-03-01,235.612
+83,West urban,{year}-03-01,241.69
+84,"Size A - More than 1,500,000",{year}-03-01,247.11
+85,"Size B/C - 50,000 to 1,500,000(3)",{year}-03-01,143.887
+86,Size classes,{year}-03-01,
+87,A(4),{year}-03-01,216.096
+88,B/C(3),{year}-03-01,145.186
+89,D,{year}-03-01,231.539
+90,Selected local areas(5),{year}-03-01,
+91,"Chicago-Gary-Kenosha, IL-IN-WI",{year}-03-01,227.405
+92,"Los Angeles-Riverside-Orange County, CA",{year}-03-01,243.738
+93,"New York-Northern N.J.-Long Island, NY-NJ-CT-PA",{year}-03-01,259.647
+94,"Boston-Brockton-Nashua, MA-NH-ME-CT",{year}-03-01,257.013
+95,"Cleveland-Akron, OH",{year}-03-01,220.444
+96,"Dallas-Fort Worth, TX",{year}-03-01,217.487
+97,"Washington-Baltimore, DC-MD-VA-WV(6)",{year}-03-01,154.984
+98,"Atlanta, GA",{year}-03-01,
+99,"Detroit-Ann Arbor-Flint, MI",{year}-03-01,
+100,"Houston-Galveston-Brazoria, TX",{year}-03-01,
+101,"Miami-Fort Lauderdale, FL",{year}-03-01,
+102,"Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD",{year}-03-01,
+103,"San Francisco-Oakland-San Jose, CA",{year}-03-01,
+104,"Seattle-Tacoma-Bremerton, WA",{year}-03-01,
+105,U.S. city average,2015-04-01,236.599
+106,Region and area size(2),2015-04-01,
+107,Northeast urban,2015-04-01,251.76
+108,"Size A - More than 1,500,000",2015-04-01,254.614
+109,"Size B/C - 50,000 to 1,500,000(3)",2015-04-01,148.482
+110,Midwest urban,2015-04-01,223.797
+111,"Size A - More than 1,500,000",2015-04-01,224.088
+112,"Size B/C - 50,000 to 1,500,000(3)",2015-04-01,143.982
+113,"Size D -  Nonmetropolitan  (less than 50,000)",2015-04-01,220.79
+114,South urban,2015-04-01,229.957
+115,"Size A - More than 1,500,000",2015-04-01,231.908
+116,"Size B/C - 50,000 to 1,500,000(3)",2015-04-01,145.939
+117,"Size D -  Nonmetropolitan  (less than 50,000)",2015-04-01,235.764
+118,West urban,2015-04-01,242.302
+119,"Size A - More than 1,500,000",2015-04-01,247.51
+120,"Size B/C - 50,000 to 1,500,000(3)",2015-04-01,144.426
+121,Size classes,2015-04-01,
+122,A(4),2015-04-01,216.439
+123,B/C(3),2015-04-01,145.579
+124,D,2015-04-01,232.06
+125,Selected local areas(5),2015-04-01,
+126,"Chicago-Gary-Kenosha, IL-IN-WI",2015-04-01,227.704
+127,"Los Angeles-Riverside-Orange County, CA",2015-04-01,243.569
+128,"New York-Northern N.J.-Long Island, NY-NJ-CT-PA",2015-04-01,259.959
+129,"Boston-Brockton-Nashua, MA-NH-ME-CT",2015-04-01,
+130,"Cleveland-Akron, OH",2015-04-01,
+131,"Dallas-Fort Worth, TX",2015-04-01,
+132,"Washington-Baltimore, DC-MD-VA-WV(6)",2015-04-01,
+133,"Atlanta, GA",2015-04-01,219.567
+134,"Detroit-Ann Arbor-Flint, MI",2015-04-01,219.005
+135,"Houston-Galveston-Brazoria, TX",2015-04-01,212.439
+136,"Miami-Fort Lauderdale, FL",2015-04-01,245.195
+137,"Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD",2015-04-01,243.717
+138,"San Francisco-Oakland-San Jose, CA",2015-04-01,257.622
+139,"Seattle-Tacoma-Bremerton, WA",2015-04-01,247.611
+140,U.S. city average,2015-05-01,237.805
+141,Region and area size(2),2015-05-01,
+142,Northeast urban,2015-05-01,252.77
+143,"Size A - More than 1,500,000",2015-05-01,255.534
+144,"Size B/C - 50,000 to 1,500,000(3)",2015-05-01,149.237
+145,Midwest urban,2015-05-01,224.732
+146,"Size A - More than 1,500,000",2015-05-01,225.022
+147,"Size B/C - 50,000 to 1,500,000(3)",2015-05-01,144.577
+148,"Size D -  Nonmetropolitan  (less than 50,000)",2015-05-01,221.748
+149,South urban,2015-05-01,230.886
+150,"Size A - More than 1,500,000",2015-05-01,232.903
+151,"Size B/C - 50,000 to 1,500,000(3)",2015-05-01,146.482
+152,"Size D -  Nonmetropolitan  (less than 50,000)",2015-05-01,236.888
+153,West urban,2015-05-01,244.227
+154,"Size A - More than 1,500,000",2015-05-01,249.766
+155,"Size B/C - 50,000 to 1,500,000(3)",2015-05-01,145.346
+156,Size classes,2015-05-01,
+157,A(4),2015-05-01,217.646
+158,B/C(3),2015-05-01,146.236
+159,D,2015-05-01,233.025
+160,Selected local areas(5),2015-05-01,
+161,"Chicago-Gary-Kenosha, IL-IN-WI",2015-05-01,228.494
+162,"Los Angeles-Riverside-Orange County, CA",2015-05-01,246.093
+163,"New York-Northern N.J.-Long Island, NY-NJ-CT-PA",2015-05-01,261.066
+164,"Boston-Brockton-Nashua, MA-NH-ME-CT",2015-05-01,256.839
+165,"Cleveland-Akron, OH",2015-05-01,221.277
+166,"Dallas-Fort Worth, TX",2015-05-01,218.484
+167,"Washington-Baltimore, DC-MD-VA-WV(6)",2015-05-01,155.88
+168,"Atlanta, GA",2015-05-01,
+169,"Detroit-Ann Arbor-Flint, MI",2015-05-01,
+170,"Houston-Galveston-Brazoria, TX",2015-05-01,
+171,"Miami-Fort Lauderdale, FL",2015-05-01,
+172,"Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD",2015-05-01,
+173,"San Francisco-Oakland-San Jose, CA",2015-05-01,
+174,"Seattle-Tacoma-Bremerton, WA",2015-05-01,
+175,U.S. city average,2015-06-01,238.638
+176,Region and area size(2),2015-06-01,
+177,Northeast urban,2015-06-01,253.626
+178,"Size A - More than 1,500,000",2015-06-01,256.161
+179,"Size B/C - 50,000 to 1,500,000(3)",2015-06-01,150.122
+180,Midwest urban,2015-06-01,225.946
+181,"Size A - More than 1,500,000",2015-06-01,226.105
+182,"Size B/C - 50,000 to 1,500,000(3)",2015-06-01,145.613
+183,"Size D -  Nonmetropolitan  (less than 50,000)",2015-06-01,222.372
+184,South urban,2015-06-01,232.026
+185,"Size A - More than 1,500,000",2015-06-01,234.202
+186,"Size B/C - 50,000 to 1,500,000(3)",2015-06-01,147.126
+187,"Size D -  Nonmetropolitan  (less than 50,000)",2015-06-01,238.123
+188,West urban,2015-06-01,244.332
+189,"Size A - More than 1,500,000",2015-06-01,249.885
+190,"Size B/C - 50,000 to 1,500,000(3)",2015-06-01,145.198
+191,Size classes,2015-06-01,
+192,A(4),2015-06-01,218.302
+193,B/C(3),2015-06-01,146.837
+194,D,2015-06-01,234.055
+195,Selected local areas(5),2015-06-01,
+196,"Chicago-Gary-Kenosha, IL-IN-WI",2015-06-01,228.837
+197,"Los Angeles-Riverside-Orange County, CA",2015-06-01,245.459
+198,"New York-Northern N.J.-Long Island, NY-NJ-CT-PA",2015-06-01,261.512
+199,"Boston-Brockton-Nashua, MA-NH-ME-CT",2015-06-01,
+200,"Cleveland-Akron, OH",2015-06-01,
+201,"Dallas-Fort Worth, TX",2015-06-01,
+202,"Washington-Baltimore, DC-MD-VA-WV(6)",2015-06-01,
+203,"Atlanta, GA",2015-06-01,225.152
+204,"Detroit-Ann Arbor-Flint, MI",2015-06-01,219.034
+205,"Houston-Galveston-Brazoria, TX",2015-06-01,213.896
+206,"Miami-Fort Lauderdale, FL",2015-06-01,246.245
+207,"Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD",2015-06-01,245.675
+208,"San Francisco-Oakland-San Jose, CA",2015-06-01,259.117
+209,"Seattle-Tacoma-Bremerton, WA",2015-06-01,251.622
+210,U.S. city average,2015-07-01,238.654
+211,Region and area size(2),2015-07-01,
+212,Northeast urban,2015-07-01,253.405
+213,"Size A - More than 1,500,000",2015-07-01,255.926
+214,"Size B/C - 50,000 to 1,500,000(3)",2015-07-01,150.008
+215,Midwest urban,2015-07-01,225.853
+216,"Size A - More than 1,500,000",2015-07-01,226.097
+217,"Size B/C - 50,000 to 1,500,000(3)",2015-07-01,145.355
+218,"Size D -  Nonmetropolitan  (less than 50,000)",2015-07-01,222.828
+219,South urban,2015-07-01,231.719
+220,"Size A - More than 1,500,000",2015-07-01,233.682
+221,"Size B/C - 50,000 to 1,500,000(3)",2015-07-01,147.095
+222,"Size D -  Nonmetropolitan  (less than 50,000)",2015-07-01,237.207
+223,West urban,2015-07-01,245.04
+224,"Size A - More than 1,500,000",2015-07-01,251.114
+225,"Size B/C - 50,000 to 1,500,000(3)",2015-07-01,144.917
+226,Size classes,2015-07-01,
+227,A(4),2015-07-01,218.465
+228,B/C(3),2015-07-01,146.704
+229,D,2015-07-01,233.943
+230,Selected local areas(5),2015-07-01,
+231,"Chicago-Gary-Kenosha, IL-IN-WI",2015-07-01,228.588
+232,"Los Angeles-Riverside-Orange County, CA",2015-07-01,247.066
+233,"New York-Northern N.J.-Long Island, NY-NJ-CT-PA",2015-07-01,261.199
+234,"Boston-Brockton-Nashua, MA-NH-ME-CT",2015-07-01,256.999
+235,"Cleveland-Akron, OH",2015-07-01,223.368
+236,"Dallas-Fort Worth, TX",2015-07-01,218.676
+237,"Washington-Baltimore, DC-MD-VA-WV(6)",2015-07-01,155.546
+238,"Atlanta, GA",2015-07-01,
+239,"Detroit-Ann Arbor-Flint, MI",2015-07-01,
+240,"Houston-Galveston-Brazoria, TX",2015-07-01,
+241,"Miami-Fort Lauderdale, FL",2015-07-01,
+242,"Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD",2015-07-01,
+243,"San Francisco-Oakland-San Jose, CA",2015-07-01,
+244,"Seattle-Tacoma-Bremerton, WA",2015-07-01,
+245,U.S. city average,2015-08-01,238.316
+246,Region and area size(2),2015-08-01,
+247,Northeast urban,2015-08-01,252.903
+248,"Size A - More than 1,500,000",2015-08-01,255.629
+249,"Size B/C - 50,000 to 1,500,000(3)",2015-08-01,149.38
+250,Midwest urban,2015-08-01,225.83
+251,"Size A - More than 1,500,000",2015-08-01,226.278
+252,"Size B/C - 50,000 to 1,500,000(3)",2015-08-01,145.099
+253,"Size D -  Nonmetropolitan  (less than 50,000)",2015-08-01,222.932
+254,South urban,2015-08-01,231.26
+255,"Size A - More than 1,500,000",2015-08-01,233.513
+256,"Size B/C - 50,000 to 1,500,000(3)",2015-08-01,146.695
+257,"Size D -  Nonmetropolitan  (less than 50,000)",2015-08-01,236.395
+258,West urban,2015-08-01,244.737
+259,"Size A - More than 1,500,000",2015-08-01,250.699
+260,"Size B/C - 50,000 to 1,500,000(3)",2015-08-01,144.752
+261,Size classes,2015-08-01,
+262,A(4),2015-08-01,218.282
+263,B/C(3),2015-08-01,146.341
+264,D,2015-08-01,233.793
+265,Selected local areas(5),2015-08-01,
+266,"Chicago-Gary-Kenosha, IL-IN-WI",2015-08-01,229.527
+267,"Los Angeles-Riverside-Orange County, CA",2015-08-01,246.328
+268,"New York-Northern N.J.-Long Island, NY-NJ-CT-PA",2015-08-01,261.347
+269,"Boston-Brockton-Nashua, MA-NH-ME-CT",2015-08-01,
+270,"Cleveland-Akron, OH",2015-08-01,
+271,"Dallas-Fort Worth, TX",2015-08-01,
+272,"Washington-Baltimore, DC-MD-VA-WV(6)",2015-08-01,
+273,"Atlanta, GA",2015-08-01,225.027
+274,"Detroit-Ann Arbor-Flint, MI",2015-08-01,220.249
+275,"Houston-Galveston-Brazoria, TX",2015-08-01,214.652
+276,"Miami-Fort Lauderdale, FL",2015-08-01,246.348
+277,"Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD",2015-08-01,244.519
+278,"San Francisco-Oakland-San Jose, CA",2015-08-01,259.917
+279,"Seattle-Tacoma-Bremerton, WA",2015-08-01,251.617
+280,U.S. city average,2015-09-01,237.945
+281,Region and area size(2),2015-09-01,
+282,Northeast urban,2015-09-01,252.922
+283,"Size A - More than 1,500,000",2015-09-01,255.916
+284,"Size B/C - 50,000 to 1,500,000(3)",2015-09-01,148.967
+285,Midwest urban,2015-09-01,225.184
+286,"Size A - More than 1,500,000",2015-09-01,225.534
+287,"Size B/C - 50,000 to 1,500,000(3)",2015-09-01,144.807
+288,"Size D -  Nonmetropolitan  (less than 50,000)",2015-09-01,222.183
+289,South urban,2015-09-01,230.913
+290,"Size A - More than 1,500,000",2015-09-01,233.48
+291,"Size B/C - 50,000 to 1,500,000(3)",2015-09-01,146.361
+292,"Size D -  Nonmetropolitan  (less than 50,000)",2015-09-01,235.628
+293,West urban,2015-09-01,244.257
+294,"Size A - More than 1,500,000",2015-09-01,250.076
+295,"Size B/C - 50,000 to 1,500,000(3)",2015-09-01,144.507
+296,Size classes,2015-09-01,
+297,A(4),2015-09-01,218.036
+298,B/C(3),2015-09-01,146.02
+299,D,2015-09-01,233.367
+300,Selected local areas(5),2015-09-01,
+301,"Chicago-Gary-Kenosha, IL-IN-WI",2015-09-01,228.826
+302,"Los Angeles-Riverside-Orange County, CA",2015-09-01,245.431
+303,"New York-Northern N.J.-Long Island, NY-NJ-CT-PA",2015-09-01,261.887
+304,"Boston-Brockton-Nashua, MA-NH-ME-CT",2015-09-01,256.643
+305,"Cleveland-Akron, OH",2015-09-01,220.304
+306,"Dallas-Fort Worth, TX",2015-09-01,217.507
+307,"Washington-Baltimore, DC-MD-VA-WV(6)",2015-09-01,156.278
+308,"Atlanta, GA",2015-09-01,
+309,"Detroit-Ann Arbor-Flint, MI",2015-09-01,
+310,"Houston-Galveston-Brazoria, TX",2015-09-01,
+311,"Miami-Fort Lauderdale, FL",2015-09-01,
+312,"Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD",2015-09-01,
+313,"San Francisco-Oakland-San Jose, CA",2015-09-01,
+314,"Seattle-Tacoma-Bremerton, WA",2015-09-01,
+315,U.S. city average,2015-10-01,237.838
+316,Region and area size(2),2015-10-01,
+317,Northeast urban,2015-10-01,252.504
+318,"Size A - More than 1,500,000",2015-10-01,255.589
+319,"Size B/C - 50,000 to 1,500,000(3)",2015-10-01,148.569
+320,Midwest urban,2015-10-01,225.05
+321,"Size A - More than 1,500,000",2015-10-01,225.319
+322,"Size B/C - 50,000 to 1,500,000(3)",2015-10-01,144.739
+323,"Size D -  Nonmetropolitan  (less than 50,000)",2015-10-01,222.397
+324,South urban,2015-10-01,230.86
+325,"Size A - More than 1,500,000",2015-10-01,233.348
+326,"Size B/C - 50,000 to 1,500,000(3)",2015-10-01,146.314
+327,"Size D -  Nonmetropolitan  (less than 50,000)",2015-10-01,236.089
+328,West urban,2015-10-01,244.341
+329,"Size A - More than 1,500,000",2015-10-01,250.362
+330,"Size B/C - 50,000 to 1,500,000(3)",2015-10-01,144.379
+331,Size classes,2015-10-01,
+332,A(4),2015-10-01,217.97
+333,B/C(3),2015-10-01,145.899
+334,D,2015-10-01,233.45
+335,Selected local areas(5),2015-10-01,
+336,"Chicago-Gary-Kenosha, IL-IN-WI",2015-10-01,228.6
+337,"Los Angeles-Riverside-Orange County, CA",2015-10-01,245.812
+338,"New York-Northern N.J.-Long Island, NY-NJ-CT-PA",2015-10-01,261.515
+339,"Boston-Brockton-Nashua, MA-NH-ME-CT",2015-10-01,
+340,"Cleveland-Akron, OH",2015-10-01,
+341,"Dallas-Fort Worth, TX",2015-10-01,
+342,"Washington-Baltimore, DC-MD-VA-WV(6)",2015-10-01,
+343,"Atlanta, GA",2015-10-01,222.282
+344,"Detroit-Ann Arbor-Flint, MI",2015-10-01,220.506
+345,"Houston-Galveston-Brazoria, TX",2015-10-01,214.569
+346,"Miami-Fort Lauderdale, FL",2015-10-01,246.789
+347,"Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD",2015-10-01,243.697
+348,"San Francisco-Oakland-San Jose, CA",2015-10-01,261.019
+349,"Seattle-Tacoma-Bremerton, WA",2015-10-01,250.831
+350,U.S. city average,2015-11-01,237.336
+351,Region and area size(2),2015-11-01,
+352,Northeast urban,2015-11-01,252.573
+353,"Size A - More than 1,500,000",2015-11-01,255.722
+354,"Size B/C - 50,000 to 1,500,000(3)",2015-11-01,148.509
+355,Midwest urban,2015-11-01,224.009
+356,"Size A - More than 1,500,000",2015-11-01,224.476
+357,"Size B/C - 50,000 to 1,500,000(3)",2015-11-01,143.892
+358,"Size D -  Nonmetropolitan  (less than 50,000)",2015-11-01,221.204
+359,South urban,2015-11-01,230.422
+360,"Size A - More than 1,500,000",2015-11-01,232.934
+361,"Size B/C - 50,000 to 1,500,000(3)",2015-11-01,145.974
+362,"Size D -  Nonmetropolitan  (less than 50,000)",2015-11-01,236.105
+363,West urban,2015-11-01,243.749
+364,"Size A - More than 1,500,000",2015-11-01,249.961
+365,"Size B/C - 50,000 to 1,500,000(3)",2015-11-01,143.595
+366,Size classes,2015-11-01,
+367,A(4),2015-11-01,217.647
+368,B/C(3),2015-11-01,145.424
+369,D,2015-11-01,233.122
+370,Selected local areas(5),2015-11-01,
+371,"Chicago-Gary-Kenosha, IL-IN-WI",2015-11-01,227.641
+372,"Los Angeles-Riverside-Orange County, CA",2015-11-01,245.711
+373,"New York-Northern N.J.-Long Island, NY-NJ-CT-PA",2015-11-01,261.009
+374,"Boston-Brockton-Nashua, MA-NH-ME-CT",2015-11-01,258.407
+375,"Cleveland-Akron, OH",2015-11-01,219.126
+376,"Dallas-Fort Worth, TX",2015-11-01,217.104
+377,"Washington-Baltimore, DC-MD-VA-WV(6)",2015-11-01,155.82
+378,"Atlanta, GA",2015-11-01,
+379,"Detroit-Ann Arbor-Flint, MI",2015-11-01,
+380,"Houston-Galveston-Brazoria, TX",2015-11-01,
+381,"Miami-Fort Lauderdale, FL",2015-11-01,
+382,"Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD",2015-11-01,
+383,"San Francisco-Oakland-San Jose, CA",2015-11-01,
+384,"Seattle-Tacoma-Bremerton, WA",2015-11-01,
+385,U.S. city average,2015-12-01,236.525
+386,Region and area size(2),2015-12-01,
+387,Northeast urban,2015-12-01,251.67
+388,"Size A - More than 1,500,000",2015-12-01,254.67
+389,"Size B/C - 50,000 to 1,500,000(3)",2015-12-01,148.196
+390,Midwest urban,2015-12-01,222.722
+391,"Size A - More than 1,500,000",2015-12-01,223.237
+392,"Size B/C - 50,000 to 1,500,000(3)",2015-12-01,143.095
+393,"Size D -  Nonmetropolitan  (less than 50,000)",2015-12-01,219.511
+394,South urban,2015-12-01,229.581
+395,"Size A - More than 1,500,000",2015-12-01,232.29
+396,"Size B/C - 50,000 to 1,500,000(3)",2015-12-01,145.378
+397,"Size D -  Nonmetropolitan  (less than 50,000)",2015-12-01,234.875
+398,West urban,2015-12-01,243.434
+399,"Size A - More than 1,500,000",2015-12-01,249.655
+400,"Size B/C - 50,000 to 1,500,000(3)",2015-12-01,143.398
+401,Size classes,2015-12-01,
+402,A(4),2015-12-01,216.956
+403,B/C(3),2015-12-01,144.911
+404,D,2015-12-01,231.991
+405,Selected local areas(5),2015-12-01,
+406,"Chicago-Gary-Kenosha, IL-IN-WI",2015-12-01,226.271
+407,"Los Angeles-Riverside-Orange County, CA",2015-12-01,245.357
+408,"New York-Northern N.J.-Long Island, NY-NJ-CT-PA",2015-12-01,259.941
+409,"Boston-Brockton-Nashua, MA-NH-ME-CT",2015-12-01,
+410,"Cleveland-Akron, OH",2015-12-01,
+411,"Dallas-Fort Worth, TX",2015-12-01,
+412,"Washington-Baltimore, DC-MD-VA-WV(6)",2015-12-01,
+413,"Atlanta, GA",2015-12-01,221.015
+414,"Detroit-Ann Arbor-Flint, MI",2015-12-01,217.764
+415,"Houston-Galveston-Brazoria, TX",2015-12-01,212.936
+416,"Miami-Fort Lauderdale, FL",2015-12-01,246.597
+417,"Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD",2015-12-01,242.356
+418,"San Francisco-Oakland-San Jose, CA",2015-12-01,260.289
+419,"Seattle-Tacoma-Bremerton, WA",2015-12-01,250.385

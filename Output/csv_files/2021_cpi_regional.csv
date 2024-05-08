@@ -1,0 +1,601 @@
+,Area,Date,Unadjusted CPI Index
+0,U.S. city average,2021-01-01,261.582
+1,Region and area size(2),2021-01-01,
+2,Northeast,2021-01-01,275.427
+3,Northeast - Size Class A,2021-01-01,279.172
+4,Northeast - Size Class B/C(3),2021-01-01,161.827
+5,New England(4),2021-01-01,105.658
+6,Middle Atlantic(4),2021-01-01,105.606
+7,Midwest,2021-01-01,242.552
+8,Midwest - Size Class A,2021-01-01,242.716
+9,Midwest - Size Class B/C(3),2021-01-01,155.244
+10,East North Central(4),2021-01-01,105.024
+11,West North Central(4),2021-01-01,105.629
+12,South,2021-01-01,252.067
+13,South - Size Class A,2021-01-01,256.377
+14,South - Size Class B/C(3),2021-01-01,159.392
+15,South Atlantic(4),2021-01-01,106.719
+16,East South Central(4),2021-01-01,105.077
+17,West South Central(4),2021-01-01,104.111
+18,West,2021-01-01,277.238
+19,West - Size Class A,2021-01-01,285.948
+20,West - Size Class B/C(3),2021-01-01,161.199
+21,Mountain(4),2021-01-01,107.854
+22,Pacific(4),2021-01-01,107.68
+23,Size classes,2021-01-01,
+24,Size Class A(5),2021-01-01,241.145
+25,Size Class B/C(3),2021-01-01,159.26
+26,Selected local areas,2021-01-01,
+27,"Chicago-Naperville-Elgin, IL-IN-WI",2021-01-01,246.008
+28,"Los Angeles-Long Beach-Anaheim, CA",2021-01-01,280.178
+29,"New York-Newark-Jersey City, NY-NJ-PA",2021-01-01,285.525
+30,"Atlanta-Sandy Springs-Roswell, GA",2021-01-01,
+31,"Baltimore-Columbia-Towson, MD(6)",2021-01-01,
+32,"Detroit-Warren-Dearborn, MI",2021-01-01,
+33,"Houston-The Woodlands-Sugar Land, TX",2021-01-01,
+34,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-01-01,
+35,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-01-01,
+36,"Phoenix-Mesa-Scottsdale, AZ(7)",2021-01-01,
+37,"San Francisco-Oakland-Hayward, CA",2021-01-01,
+38,"Seattle-Tacoma-Bellevue, WA",2021-01-01,
+39,"St. Louis, MO-IL",2021-01-01,
+40,Urban Alaska,2021-01-01,
+41,"Boston-Cambridge-Newton, MA-NH",2021-01-01,286.615
+42,"Dallas-Fort Worth-Arlington, TX",2021-01-01,242.513
+43,"Denver-Aurora-Lakewood, CO",2021-01-01,272.156
+44,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-01-01,256.379
+45,"Riverside-San Bernardino-Ontario, CA(4)",2021-01-01,109.55
+46,"San Diego-Carlsbad, CA",2021-01-01,307.688
+47,"Tampa-St. Petersburg-Clearwater, FL(8)",2021-01-01,239.135
+48,Urban Hawaii,2021-01-01,287.634
+49,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2021-01-01,270.535
+50,U.S. city average,2021-02-01,263.014
+51,Region and area size(2),2021-02-01,
+52,Northeast,2021-02-01,276.473
+53,Northeast - Size Class A,2021-02-01,280.132
+54,Northeast - Size Class B/C(3),2021-02-01,162.517
+55,New England(4),2021-02-01,105.962
+56,Middle Atlantic(4),2021-02-01,106.044
+57,Midwest,2021-02-01,244.477
+58,Midwest - Size Class A,2021-02-01,244.759
+59,Midwest - Size Class B/C(3),2021-02-01,156.432
+60,East North Central(4),2021-02-01,105.925
+61,West North Central(4),2021-02-01,106.315
+62,South,2021-02-01,253.386
+63,South - Size Class A,2021-02-01,257.802
+64,South - Size Class B/C(3),2021-02-01,160.195
+65,South Atlantic(4),2021-02-01,107.243
+66,East South Central(4),2021-02-01,105.706
+67,West South Central(4),2021-02-01,104.684
+68,West,2021-02-01,278.702
+69,West - Size Class A,2021-02-01,287.47
+70,West - Size Class B/C(3),2021-02-01,162.042
+71,Mountain(4),2021-02-01,108.386
+72,Pacific(4),2021-02-01,108.262
+73,Size classes,2021-02-01,
+74,Size Class A(5),2021-02-01,242.447
+75,Size Class B/C(3),2021-02-01,160.141
+76,Selected local areas,2021-02-01,
+77,"Chicago-Naperville-Elgin, IL-IN-WI",2021-02-01,247.387
+78,"Los Angeles-Long Beach-Anaheim, CA",2021-02-01,281.347
+79,"New York-Newark-Jersey City, NY-NJ-PA",2021-02-01,286.474
+80,"Atlanta-Sandy Springs-Roswell, GA",2021-02-01,252.972
+81,"Baltimore-Columbia-Towson, MD(6)",2021-02-01,261.917
+82,"Detroit-Warren-Dearborn, MI",2021-02-01,240.57
+83,"Houston-The Woodlands-Sugar Land, TX",2021-02-01,232.442
+84,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-02-01,275.849
+85,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-02-01,262.167
+86,"Phoenix-Mesa-Scottsdale, AZ(7)",2021-02-01,147.186
+87,"San Francisco-Oakland-Hayward, CA",2021-02-01,304.387
+88,"Seattle-Tacoma-Bellevue, WA",2021-02-01,286.95
+89,"St. Louis, MO-IL",2021-02-01,237.018
+90,Urban Alaska,2021-02-01,229.478
+91,"Boston-Cambridge-Newton, MA-NH",2021-02-01,
+92,"Dallas-Fort Worth-Arlington, TX",2021-02-01,
+93,"Denver-Aurora-Lakewood, CO",2021-02-01,
+94,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-02-01,
+95,"Riverside-San Bernardino-Ontario, CA(4)",2021-02-01,
+96,"San Diego-Carlsbad, CA",2021-02-01,
+97,"Tampa-St. Petersburg-Clearwater, FL(8)",2021-02-01,
+98,Urban Hawaii,2021-02-01,
+99,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2021-02-01,
+100,U.S. city average,{year}-03-01,264.877
+101,Region and area size(2),{year}-03-01,
+102,Northeast,{year}-03-01,278.197
+103,Northeast - Size Class A,{year}-03-01,281.336
+104,Northeast - Size Class B/C(3),{year}-03-01,163.941
+105,New England(4),{year}-03-01,106.992
+106,Middle Atlantic(4),{year}-03-01,106.567
+107,Midwest,{year}-03-01,246.246
+108,Midwest - Size Class A,{year}-03-01,246.627
+109,Midwest - Size Class B/C(3),{year}-03-01,157.528
+110,East North Central(4),{year}-03-01,106.623
+111,West North Central(4),{year}-03-01,107.239
+112,South,{year}-03-01,255.319
+113,South - Size Class A,{year}-03-01,259.712
+114,South - Size Class B/C(3),{year}-03-01,161.438
+115,South Atlantic(4),{year}-03-01,107.943
+116,East South Central(4),{year}-03-01,106.817
+117,West South Central(4),{year}-03-01,105.565
+118,West,{year}-03-01,280.625
+119,West - Size Class A,{year}-03-01,289.308
+120,West - Size Class B/C(3),{year}-03-01,163.257
+121,Mountain(4),{year}-03-01,109.308
+122,Pacific(4),{year}-03-01,108.947
+123,Size classes,{year}-03-01,
+124,Size Class A(5),{year}-03-01,243.99
+125,Size Class B/C(3),{year}-03-01,161.373
+126,Selected local areas,{year}-03-01,
+127,"Chicago-Naperville-Elgin, IL-IN-WI",{year}-03-01,248.984
+128,"Los Angeles-Long Beach-Anaheim, CA",{year}-03-01,282.648
+129,"New York-Newark-Jersey City, NY-NJ-PA",{year}-03-01,287.481
+130,"Atlanta-Sandy Springs-Roswell, GA",{year}-03-01,
+131,"Baltimore-Columbia-Towson, MD(6)",{year}-03-01,
+132,"Detroit-Warren-Dearborn, MI",{year}-03-01,
+133,"Houston-The Woodlands-Sugar Land, TX",{year}-03-01,
+134,"Miami-Fort Lauderdale-West Palm Beach, FL",{year}-03-01,
+135,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",{year}-03-01,
+136,"Phoenix-Mesa-Scottsdale, AZ(7)",{year}-03-01,
+137,"San Francisco-Oakland-Hayward, CA",{year}-03-01,
+138,"Seattle-Tacoma-Bellevue, WA",{year}-03-01,
+139,"St. Louis, MO-IL",{year}-03-01,
+140,Urban Alaska,{year}-03-01,
+141,"Boston-Cambridge-Newton, MA-NH",{year}-03-01,289.24
+142,"Dallas-Fort Worth-Arlington, TX",{year}-03-01,246.995
+143,"Denver-Aurora-Lakewood, CO",{year}-03-01,274.43
+144,"Minneapolis-St.Paul-Bloomington, MN-WI",{year}-03-01,259.187
+145,"Riverside-San Bernardino-Ontario, CA(4)",{year}-03-01,110.981
+146,"San Diego-Carlsbad, CA",{year}-03-01,315.035
+147,"Tampa-St. Petersburg-Clearwater, FL(8)",{year}-03-01,242.91
+148,Urban Hawaii,{year}-03-01,290.361
+149,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",{year}-03-01,272.347
+150,U.S. city average,2021-04-01,267.054
+151,Region and area size(2),2021-04-01,
+152,Northeast,2021-04-01,280.234
+153,Northeast - Size Class A,2021-04-01,283.282
+154,Northeast - Size Class B/C(3),2021-04-01,165.227
+155,New England(4),2021-04-01,107.566
+156,Middle Atlantic(4),2021-04-01,107.426
+157,Midwest,2021-04-01,248.169
+158,Midwest - Size Class A,2021-04-01,248.593
+159,Midwest - Size Class B/C(3),2021-04-01,158.742
+160,East North Central(4),2021-04-01,107.47
+161,West North Central(4),2021-04-01,108.042
+162,South,2021-04-01,257.207
+163,South - Size Class A,2021-04-01,261.489
+164,South - Size Class B/C(3),2021-04-01,162.686
+165,South Atlantic(4),2021-04-01,108.722
+166,East South Central(4),2021-04-01,107.669
+167,West South Central(4),2021-04-01,106.354
+168,West,2021-04-01,283.507
+169,West - Size Class A,2021-04-01,292.049
+170,West - Size Class B/C(3),2021-04-01,165.088
+171,Mountain(4),2021-04-01,110.748
+172,Pacific(4),2021-04-01,109.951
+173,Size classes,2021-04-01,
+174,Size Class A(5),2021-04-01,245.908
+175,Size Class B/C(3),2021-04-01,162.748
+176,Selected local areas,2021-04-01,
+177,"Chicago-Naperville-Elgin, IL-IN-WI",2021-04-01,251.491
+178,"Los Angeles-Long Beach-Anaheim, CA",2021-04-01,285.808
+179,"New York-Newark-Jersey City, NY-NJ-PA",2021-04-01,289.493
+180,"Atlanta-Sandy Springs-Roswell, GA",2021-04-01,257.074
+181,"Baltimore-Columbia-Towson, MD(6)",2021-04-01,266.534
+182,"Detroit-Warren-Dearborn, MI",2021-04-01,244.708
+183,"Houston-The Woodlands-Sugar Land, TX",2021-04-01,236.604
+184,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-04-01,280.39
+185,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-04-01,265.355
+186,"Phoenix-Mesa-Scottsdale, AZ(7)",2021-04-01,150.787
+187,"San Francisco-Oakland-Hayward, CA",2021-04-01,309.419
+188,"Seattle-Tacoma-Bellevue, WA",2021-04-01,290.068
+189,"St. Louis, MO-IL",2021-04-01,242.022
+190,Urban Alaska,2021-04-01,233.519
+191,"Boston-Cambridge-Newton, MA-NH",2021-04-01,
+192,"Dallas-Fort Worth-Arlington, TX",2021-04-01,
+193,"Denver-Aurora-Lakewood, CO",2021-04-01,
+194,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-04-01,
+195,"Riverside-San Bernardino-Ontario, CA(4)",2021-04-01,
+196,"San Diego-Carlsbad, CA",2021-04-01,
+197,"Tampa-St. Petersburg-Clearwater, FL(8)",2021-04-01,
+198,Urban Hawaii,2021-04-01,
+199,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2021-04-01,
+200,U.S. city average,2021-05-01,269.195
+201,Region and area size(2),2021-05-01,
+202,Northeast,2021-05-01,281.858
+203,Northeast - Size Class A,2021-05-01,284.757
+204,Northeast - Size Class B/C(3),2021-05-01,166.31
+205,New England(4),2021-05-01,107.843
+206,Middle Atlantic(4),2021-05-01,108.177
+207,Midwest,2021-05-01,250.582
+208,Midwest - Size Class A,2021-05-01,250.644
+209,Midwest - Size Class B/C(3),2021-05-01,160.424
+210,East North Central(4),2021-05-01,108.498
+211,West North Central(4),2021-05-01,109.132
+212,South,2021-05-01,259.343
+213,South - Size Class A,2021-05-01,263.638
+214,South - Size Class B/C(3),2021-05-01,164.045
+215,South Atlantic(4),2021-05-01,109.507
+216,East South Central(4),2021-05-01,108.861
+217,West South Central(4),2021-05-01,107.324
+218,West,2021-05-01,285.793
+219,West - Size Class A,2021-05-01,293.814
+220,West - Size Class B/C(3),2021-05-01,166.813
+221,Mountain(4),2021-05-01,111.939
+222,Pacific(4),2021-05-01,110.731
+223,Size classes,2021-05-01,
+224,Size Class A(5),2021-05-01,247.581
+225,Size Class B/C(3),2021-05-01,164.217
+226,Selected local areas,2021-05-01,
+227,"Chicago-Naperville-Elgin, IL-IN-WI",2021-05-01,253.934
+228,"Los Angeles-Long Beach-Anaheim, CA",2021-05-01,287.62
+229,"New York-Newark-Jersey City, NY-NJ-PA",2021-05-01,290.991
+230,"Atlanta-Sandy Springs-Roswell, GA",2021-05-01,
+231,"Baltimore-Columbia-Towson, MD(6)",2021-05-01,
+232,"Detroit-Warren-Dearborn, MI",2021-05-01,
+233,"Houston-The Woodlands-Sugar Land, TX",2021-05-01,
+234,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-05-01,
+235,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-05-01,
+236,"Phoenix-Mesa-Scottsdale, AZ(7)",2021-05-01,
+237,"San Francisco-Oakland-Hayward, CA",2021-05-01,
+238,"Seattle-Tacoma-Bellevue, WA",2021-05-01,
+239,"St. Louis, MO-IL",2021-05-01,
+240,Urban Alaska,2021-05-01,
+241,"Boston-Cambridge-Newton, MA-NH",2021-05-01,291.667
+242,"Dallas-Fort Worth-Arlington, TX",2021-05-01,251.228
+243,"Denver-Aurora-Lakewood, CO",2021-05-01,280.154
+244,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-05-01,262.898
+245,"Riverside-San Bernardino-Ontario, CA(4)",2021-05-01,113.222
+246,"San Diego-Carlsbad, CA",2021-05-01,317.141
+247,"Tampa-St. Petersburg-Clearwater, FL(8)",2021-05-01,245.419
+248,Urban Hawaii,2021-05-01,296.559
+249,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2021-05-01,275.822
+250,U.S. city average,2021-06-01,271.696
+251,Region and area size(2),2021-06-01,
+252,Northeast,2021-06-01,284.741
+253,Northeast - Size Class A,2021-06-01,287.645
+254,Northeast - Size Class B/C(3),2021-06-01,168.03
+255,New England(4),2021-06-01,108.737
+256,Middle Atlantic(4),2021-06-01,109.362
+257,Midwest,2021-06-01,253.042
+258,Midwest - Size Class A,2021-06-01,252.908
+259,Midwest - Size Class B/C(3),2021-06-01,162.072
+260,East North Central(4),2021-06-01,109.476
+261,West North Central(4),2021-06-01,110.4
+262,South,2021-06-01,261.668
+263,South - Size Class A,2021-06-01,265.604
+264,South - Size Class B/C(3),2021-06-01,165.666
+265,South Atlantic(4),2021-06-01,110.508
+266,East South Central(4),2021-06-01,109.882
+267,West South Central(4),2021-06-01,108.233
+268,West,2021-06-01,288.263
+269,West - Size Class A,2021-06-01,296.099
+270,West - Size Class B/C(3),2021-06-01,168.425
+271,Mountain(4),2021-06-01,112.731
+272,Pacific(4),2021-06-01,111.751
+273,Size classes,2021-06-01,
+274,Size Class A(5),2021-06-01,249.675
+275,Size Class B/C(3),2021-06-01,165.858
+276,Selected local areas,2021-06-01,
+277,"Chicago-Naperville-Elgin, IL-IN-WI",2021-06-01,254.974
+278,"Los Angeles-Long Beach-Anaheim, CA",2021-06-01,289.218
+279,"New York-Newark-Jersey City, NY-NJ-PA",2021-06-01,293.872
+280,"Atlanta-Sandy Springs-Roswell, GA",2021-06-01,261.662
+281,"Baltimore-Columbia-Towson, MD(6)",2021-06-01,269.598
+282,"Detroit-Warren-Dearborn, MI",2021-06-01,248.876
+283,"Houston-The Woodlands-Sugar Land, TX",2021-06-01,239.374
+284,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-06-01,284.797
+285,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-06-01,270.499
+286,"Phoenix-Mesa-Scottsdale, AZ(7)",2021-06-01,153.672
+287,"San Francisco-Oakland-Hayward, CA",2021-06-01,309.497
+288,"Seattle-Tacoma-Bellevue, WA",2021-06-01,296.573
+289,"St. Louis, MO-IL",2021-06-01,247.777
+290,Urban Alaska,2021-06-01,239.296
+291,"Boston-Cambridge-Newton, MA-NH",2021-06-01,
+292,"Dallas-Fort Worth-Arlington, TX",2021-06-01,
+293,"Denver-Aurora-Lakewood, CO",2021-06-01,
+294,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-06-01,
+295,"Riverside-San Bernardino-Ontario, CA(4)",2021-06-01,
+296,"San Diego-Carlsbad, CA",2021-06-01,
+297,"Tampa-St. Petersburg-Clearwater, FL(8)",2021-06-01,
+298,Urban Hawaii,2021-06-01,
+299,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2021-06-01,
+300,U.S. city average,2021-07-01,273.003
+301,Region and area size(2),2021-07-01,
+302,Northeast,2021-07-01,285.22
+303,Northeast - Size Class A,2021-07-01,287.813
+304,Northeast - Size Class B/C(3),2021-07-01,168.552
+305,New England(4),2021-07-01,108.996
+306,Middle Atlantic(4),2021-07-01,109.517
+307,Midwest,2021-07-01,254.671
+308,Midwest - Size Class A,2021-07-01,254.319
+309,Midwest - Size Class B/C(3),2021-07-01,163.198
+310,East North Central(4),2021-07-01,110.136
+311,West North Central(4),2021-07-01,111.212
+312,South,2021-07-01,263.013
+313,South - Size Class A,2021-07-01,266.462
+314,South - Size Class B/C(3),2021-07-01,166.707
+315,South Atlantic(4),2021-07-01,111.061
+316,East South Central(4),2021-07-01,110.293
+317,West South Central(4),2021-07-01,108.881
+318,West,2021-07-01,289.863
+319,West - Size Class A,2021-07-01,297.881
+320,West - Size Class B/C(3),2021-07-01,169.267
+321,Mountain(4),2021-07-01,113.562
+322,Pacific(4),2021-07-01,112.297
+323,Size classes,2021-07-01,
+324,Size Class A(5),2021-07-01,250.628
+325,Size Class B/C(3),2021-07-01,166.793
+326,Selected local areas,2021-07-01,
+327,"Chicago-Naperville-Elgin, IL-IN-WI",2021-07-01,255.929
+328,"Los Angeles-Long Beach-Anaheim, CA",2021-07-01,290.89
+329,"New York-Newark-Jersey City, NY-NJ-PA",2021-07-01,293.553
+330,"Atlanta-Sandy Springs-Roswell, GA",2021-07-01,
+331,"Baltimore-Columbia-Towson, MD(6)",2021-07-01,
+332,"Detroit-Warren-Dearborn, MI",2021-07-01,
+333,"Houston-The Woodlands-Sugar Land, TX",2021-07-01,
+334,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-07-01,
+335,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-07-01,
+336,"Phoenix-Mesa-Scottsdale, AZ(7)",2021-07-01,
+337,"San Francisco-Oakland-Hayward, CA",2021-07-01,
+338,"Seattle-Tacoma-Bellevue, WA",2021-07-01,
+339,"St. Louis, MO-IL",2021-07-01,
+340,Urban Alaska,2021-07-01,
+341,"Boston-Cambridge-Newton, MA-NH",2021-07-01,295.211
+342,"Dallas-Fort Worth-Arlington, TX",2021-07-01,253.319
+343,"Denver-Aurora-Lakewood, CO",2021-07-01,285.268
+344,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-07-01,267.241
+345,"Riverside-San Bernardino-Ontario, CA(4)",2021-07-01,114.682
+346,"San Diego-Carlsbad, CA",2021-07-01,323.906
+347,"Tampa-St. Petersburg-Clearwater, FL(8)",2021-07-01,248.811
+348,Urban Hawaii,2021-07-01,298.82
+349,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2021-07-01,279.099
+350,U.S. city average,2021-08-01,273.567
+351,Region and area size(2),2021-08-01,
+352,Northeast,2021-08-01,285.63
+353,Northeast - Size Class A,2021-08-01,288.105
+354,Northeast - Size Class B/C(3),2021-08-01,168.886
+355,New England(4),2021-08-01,109.194
+356,Middle Atlantic(4),2021-08-01,109.659
+357,Midwest,2021-08-01,255.142
+358,Midwest - Size Class A,2021-08-01,254.555
+359,Midwest - Size Class B/C(3),2021-08-01,163.587
+360,East North Central(4),2021-08-01,110.248
+361,West North Central(4),2021-08-01,111.623
+362,South,2021-08-01,263.728
+363,South - Size Class A,2021-08-01,267.404
+364,South - Size Class B/C(3),2021-08-01,167.078
+365,South Atlantic(4),2021-08-01,111.439
+366,East South Central(4),2021-08-01,110.235
+367,West South Central(4),2021-08-01,109.192
+368,West,2021-08-01,290.393
+369,West - Size Class A,2021-08-01,298.574
+370,West - Size Class B/C(3),2021-08-01,169.477
+371,Mountain(4),2021-08-01,113.807
+372,Pacific(4),2021-08-01,112.489
+373,Size classes,2021-08-01,
+374,Size Class A(5),2021-08-01,251.164
+375,Size Class B/C(3),2021-08-01,167.128
+376,Selected local areas,2021-08-01,
+377,"Chicago-Naperville-Elgin, IL-IN-WI",2021-08-01,256.078
+378,"Los Angeles-Long Beach-Anaheim, CA",2021-08-01,291.333
+379,"New York-Newark-Jersey City, NY-NJ-PA",2021-08-01,293.927
+380,"Atlanta-Sandy Springs-Roswell, GA",2021-08-01,264.502
+381,"Baltimore-Columbia-Towson, MD(6)",2021-08-01,271.067
+382,"Detroit-Warren-Dearborn, MI",2021-08-01,250.003
+383,"Houston-The Woodlands-Sugar Land, TX",2021-08-01,241.088
+384,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-08-01,285.472
+385,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-08-01,272.044
+386,"Phoenix-Mesa-Scottsdale, AZ(7)",2021-08-01,153.931
+387,"San Francisco-Oakland-Hayward, CA",2021-08-01,311.167
+388,"Seattle-Tacoma-Bellevue, WA",2021-08-01,299.704
+389,"St. Louis, MO-IL",2021-08-01,250.237
+390,Urban Alaska,2021-08-01,239.899
+391,"Boston-Cambridge-Newton, MA-NH",2021-08-01,
+392,"Dallas-Fort Worth-Arlington, TX",2021-08-01,
+393,"Denver-Aurora-Lakewood, CO",2021-08-01,
+394,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-08-01,
+395,"Riverside-San Bernardino-Ontario, CA(4)",2021-08-01,
+396,"San Diego-Carlsbad, CA",2021-08-01,
+397,"Tampa-St. Petersburg-Clearwater, FL(8)",2021-08-01,
+398,Urban Hawaii,2021-08-01,
+399,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2021-08-01,
+400,U.S. city average,2021-09-01,274.31
+401,Region and area size(2),2021-09-01,
+402,Northeast,2021-09-01,286.423
+403,Northeast - Size Class A,2021-09-01,289.167
+404,Northeast - Size Class B/C(3),2021-09-01,169.156
+405,New England(4),2021-09-01,109.213
+406,Middle Atlantic(4),2021-09-01,110.069
+407,Midwest,2021-09-01,255.709
+408,Midwest - Size Class A,2021-09-01,255.359
+409,Midwest - Size Class B/C(3),2021-09-01,163.861
+410,East North Central(4),2021-09-01,110.465
+411,West North Central(4),2021-09-01,111.936
+412,South,2021-09-01,264.593
+413,South - Size Class A,2021-09-01,268.332
+414,South - Size Class B/C(3),2021-09-01,167.607
+415,South Atlantic(4),2021-09-01,111.906
+416,East South Central(4),2021-09-01,110.37
+417,West South Central(4),2021-09-01,109.463
+418,West,2021-09-01,291.053
+419,West - Size Class A,2021-09-01,299.082
+420,West - Size Class B/C(3),2021-09-01,169.977
+421,Mountain(4),2021-09-01,114.16
+422,Pacific(4),2021-09-01,112.71
+423,Size classes,2021-09-01,
+424,Size Class A(5),2021-09-01,251.898
+425,Size Class B/C(3),2021-09-01,167.553
+426,Selected local areas,2021-09-01,
+427,"Chicago-Naperville-Elgin, IL-IN-WI",2021-09-01,256.881
+428,"Los Angeles-Long Beach-Anaheim, CA",2021-09-01,292.209
+429,"New York-Newark-Jersey City, NY-NJ-PA",2021-09-01,295.488
+430,"Atlanta-Sandy Springs-Roswell, GA",2021-09-01,
+431,"Baltimore-Columbia-Towson, MD(6)",2021-09-01,
+432,"Detroit-Warren-Dearborn, MI",2021-09-01,
+433,"Houston-The Woodlands-Sugar Land, TX",2021-09-01,
+434,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-09-01,
+435,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-09-01,
+436,"Phoenix-Mesa-Scottsdale, AZ(7)",2021-09-01,
+437,"San Francisco-Oakland-Hayward, CA",2021-09-01,
+438,"Seattle-Tacoma-Bellevue, WA",2021-09-01,
+439,"St. Louis, MO-IL",2021-09-01,
+440,Urban Alaska,2021-09-01,
+441,"Boston-Cambridge-Newton, MA-NH",2021-09-01,294.784
+442,"Dallas-Fort Worth-Arlington, TX",2021-09-01,254.95
+443,"Denver-Aurora-Lakewood, CO",2021-09-01,286.186
+444,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-09-01,270.24
+445,"Riverside-San Bernardino-Ontario, CA(4)",2021-09-01,115.557
+446,"San Diego-Carlsbad, CA",2021-09-01,324.138
+447,"Tampa-St. Petersburg-Clearwater, FL(8)",2021-09-01,251.221
+448,Urban Hawaii,2021-09-01,301.891
+449,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2021-09-01,280.933
+450,U.S. city average,2021-10-01,276.589
+451,Region and area size(2),2021-10-01,
+452,Northeast,2021-10-01,288.236
+453,Northeast - Size Class A,2021-10-01,290.515
+454,Northeast - Size Class B/C(3),2021-10-01,170.591
+455,New England(4),2021-10-01,110.209
+456,Middle Atlantic(4),2021-10-01,110.653
+457,Midwest,2021-10-01,257.793
+458,Midwest - Size Class A,2021-10-01,257.306
+459,Midwest - Size Class B/C(3),2021-10-01,165.247
+460,East North Central(4),2021-10-01,111.421
+461,West North Central(4),2021-10-01,112.723
+462,South,2021-10-01,267.16
+463,South - Size Class A,2021-10-01,270.858
+464,South - Size Class B/C(3),2021-10-01,169.263
+465,South Atlantic(4),2021-10-01,113.054
+466,East South Central(4),2021-10-01,111.341
+467,West South Central(4),2021-10-01,110.457
+468,West,2021-10-01,293.397
+469,West - Size Class A,2021-10-01,301.67
+470,West - Size Class B/C(3),2021-10-01,171.226
+471,Mountain(4),2021-10-01,115.325
+472,Pacific(4),2021-10-01,113.53
+473,Size classes,2021-10-01,
+474,Size Class A(5),2021-10-01,253.848
+475,Size Class B/C(3),2021-10-01,169.024
+476,Selected local areas,2021-10-01,
+477,"Chicago-Naperville-Elgin, IL-IN-WI",2021-10-01,258.621
+478,"Los Angeles-Long Beach-Anaheim, CA",2021-10-01,294.961
+479,"New York-Newark-Jersey City, NY-NJ-PA",2021-10-01,296.472
+480,"Atlanta-Sandy Springs-Roswell, GA",2021-10-01,268.362
+481,"Baltimore-Columbia-Towson, MD(6)",2021-10-01,277.415
+482,"Detroit-Warren-Dearborn, MI",2021-10-01,253.051
+483,"Houston-The Woodlands-Sugar Land, TX",2021-10-01,243.813
+484,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-10-01,289.793
+485,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-10-01,274.647
+486,"Phoenix-Mesa-Scottsdale, AZ(7)",2021-10-01,157.254
+487,"San Francisco-Oakland-Hayward, CA",2021-10-01,313.265
+488,"Seattle-Tacoma-Bellevue, WA",2021-10-01,303.099
+489,"St. Louis, MO-IL",2021-10-01,251.624
+490,Urban Alaska,2021-10-01,242.708
+491,"Boston-Cambridge-Newton, MA-NH",2021-10-01,
+492,"Dallas-Fort Worth-Arlington, TX",2021-10-01,
+493,"Denver-Aurora-Lakewood, CO",2021-10-01,
+494,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-10-01,
+495,"Riverside-San Bernardino-Ontario, CA(4)",2021-10-01,
+496,"San Diego-Carlsbad, CA",2021-10-01,
+497,"Tampa-St. Petersburg-Clearwater, FL(8)",2021-10-01,
+498,Urban Hawaii,2021-10-01,
+499,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2021-10-01,
+500,U.S. city average,2021-11-01,277.948
+501,Region and area size(2),2021-11-01,
+502,Northeast,2021-11-01,289.835
+503,Northeast - Size Class A,2021-11-01,291.846
+504,Northeast - Size Class B/C(3),2021-11-01,171.75
+505,New England(4),2021-11-01,111.212
+506,Middle Atlantic(4),2021-11-01,111.12
+507,Midwest,2021-11-01,258.911
+508,Midwest - Size Class A,2021-11-01,258.256
+509,Midwest - Size Class B/C(3),2021-11-01,166.026
+510,East North Central(4),2021-11-01,111.949
+511,West North Central(4),2021-11-01,113.11
+512,South,2021-11-01,268.36
+513,South - Size Class A,2021-11-01,272.251
+514,South - Size Class B/C(3),2021-11-01,169.957
+515,South Atlantic(4),2021-11-01,113.543
+516,East South Central(4),2021-11-01,111.793
+517,West South Central(4),2021-11-01,111.007
+518,West,2021-11-01,294.986
+519,West - Size Class A,2021-11-01,303.213
+520,West - Size Class B/C(3),2021-11-01,172.214
+521,Mountain(4),2021-11-01,116.065
+522,Pacific(4),2021-11-01,114.103
+523,Size classes,2021-11-01,
+524,Size Class A(5),2021-11-01,255.06
+525,Size Class B/C(3),2021-11-01,169.875
+526,Selected local areas,2021-11-01,
+527,"Chicago-Naperville-Elgin, IL-IN-WI",2021-11-01,259.254
+528,"Los Angeles-Long Beach-Anaheim, CA",2021-11-01,296.79
+529,"New York-Newark-Jersey City, NY-NJ-PA",2021-11-01,297.49
+530,"Atlanta-Sandy Springs-Roswell, GA",2021-11-01,
+531,"Baltimore-Columbia-Towson, MD(6)",2021-11-01,
+532,"Detroit-Warren-Dearborn, MI",2021-11-01,
+533,"Houston-The Woodlands-Sugar Land, TX",2021-11-01,
+534,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-11-01,
+535,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-11-01,
+536,"Phoenix-Mesa-Scottsdale, AZ(7)",2021-11-01,
+537,"San Francisco-Oakland-Hayward, CA",2021-11-01,
+538,"Seattle-Tacoma-Bellevue, WA",2021-11-01,
+539,"St. Louis, MO-IL",2021-11-01,
+540,Urban Alaska,2021-11-01,
+541,"Boston-Cambridge-Newton, MA-NH",2021-11-01,299.723
+542,"Dallas-Fort Worth-Arlington, TX",2021-11-01,257.394
+543,"Denver-Aurora-Lakewood, CO",2021-11-01,289.621
+544,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-11-01,272.859
+545,"Riverside-San Bernardino-Ontario, CA(4)",2021-11-01,117.206
+546,"San Diego-Carlsbad, CA",2021-11-01,326.422
+547,"Tampa-St. Petersburg-Clearwater, FL(8)",2021-11-01,255.851
+548,Urban Hawaii,2021-11-01,302.332
+549,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2021-11-01,284.24
+550,U.S. city average,2021-12-01,278.802
+551,Region and area size(2),2021-12-01,
+552,Northeast,2021-12-01,290.405
+553,Northeast - Size Class A,2021-12-01,292.091
+554,Northeast - Size Class B/C(3),2021-12-01,172.337
+555,New England(4),2021-12-01,111.635
+556,Middle Atlantic(4),2021-12-01,111.263
+557,Midwest,2021-12-01,259.609
+558,Midwest - Size Class A,2021-12-01,259.128
+559,Midwest - Size Class B/C(3),2021-12-01,166.408
+560,East North Central(4),2021-12-01,112.265
+561,West North Central(4),2021-12-01,113.381
+562,South,2021-12-01,269.263
+563,South - Size Class A,2021-12-01,273.751
+564,South - Size Class B/C(3),2021-12-01,170.309
+565,South Atlantic(4),2021-12-01,114.096
+566,East South Central(4),2021-12-01,111.575
+567,West South Central(4),2021-12-01,111.325
+568,West,2021-12-01,296.102
+569,West - Size Class A,2021-12-01,304.574
+570,West - Size Class B/C(3),2021-12-01,172.722
+571,Mountain(4),2021-12-01,116.728
+572,Pacific(4),2021-12-01,114.454
+573,Size classes,2021-12-01,
+574,Size Class A(5),2021-12-01,256.011
+575,Size Class B/C(3),2021-12-01,170.304
+576,Selected local areas,2021-12-01,
+577,"Chicago-Naperville-Elgin, IL-IN-WI",2021-12-01,260.368
+578,"Los Angeles-Long Beach-Anaheim, CA",2021-12-01,297.925
+579,"New York-Newark-Jersey City, NY-NJ-PA",2021-12-01,296.865
+580,"Atlanta-Sandy Springs-Roswell, GA",2021-12-01,273.424
+581,"Baltimore-Columbia-Towson, MD(6)",2021-12-01,282.455
+582,"Detroit-Warren-Dearborn, MI",2021-12-01,255.782
+583,"Houston-The Woodlands-Sugar Land, TX",2021-12-01,245.509
+584,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-12-01,293.284
+585,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-12-01,277.163
+586,"Phoenix-Mesa-Scottsdale, AZ(7)",2021-12-01,159.85
+587,"San Francisco-Oakland-Hayward, CA",2021-12-01,315.805
+588,"Seattle-Tacoma-Bellevue, WA",2021-12-01,304.856
+589,"St. Louis, MO-IL",2021-12-01,253.618
+590,Urban Alaska,2021-12-01,243.568
+591,"Boston-Cambridge-Newton, MA-NH",2021-12-01,
+592,"Dallas-Fort Worth-Arlington, TX",2021-12-01,
+593,"Denver-Aurora-Lakewood, CO",2021-12-01,
+594,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-12-01,
+595,"Riverside-San Bernardino-Ontario, CA(4)",2021-12-01,
+596,"San Diego-Carlsbad, CA",2021-12-01,
+597,"Tampa-St. Petersburg-Clearwater, FL(8)",2021-12-01,
+598,Urban Hawaii,2021-12-01,
+599,"Washington-Arlington-Alexandria, DC-VA-MD-WV(6)",2021-12-01,
